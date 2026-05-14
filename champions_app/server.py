@@ -3,7 +3,7 @@ from pathlib import Path
 import json
 import sqlite3
 import sys
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 from typing import Any, Dict
 
 # Allow running `python champions_app/server.py` from project root on Windows/macOS/Linux
@@ -118,8 +118,8 @@ class Handler(SimpleHTTPRequestHandler):
         if p == "/api/pokemon_options":
             return self._json(200, {"options": load_ranking_names(120)})
         if p.startswith("/api/usage_options"):
-            q = self.path.split("name=",1)
-            name = q[1] if len(q)>1 else ""
+            qs = parse_qs(urlparse(self.path).query)
+            name = qs.get("name", [""])[0]
             return self._json(200, usage_options_for(name))
         if p == "/api/history":
             con = sqlite3.connect(DB_PATH)
