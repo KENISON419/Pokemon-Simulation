@@ -1,0 +1,7 @@
+<!doctype html><html lang='ja'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Champions Assistant</title><link rel='stylesheet' href='style.css'></head><body>
+<h1>Pokemon Champions Assistant</h1>
+<section><h2>自分のパーティ登録(6匹)</h2><div id='myParty' class='grid6'></div></section>
+<section><h2>相手のパーティ登録(6匹・名前のみ可)</h2><div id='oppParty' class='grid6'></div></section>
+<section><h2>対戦状況</h2><div class='split'><div><h3>自分の選出3匹</h3><div id='myField' class='grid3'></div></div><div><h3>相手の選出3匹(未確定可)</h3><div id='oppField' class='grid3'></div></div></div>
+<div class='row'><input id='weather' placeholder='天候'><input id='field' placeholder='フィールド・場状態'></div><button onclick='runSuggest()'>AI予測</button><pre id='ai'></pre></section>
+<script src='app.js'></script></body></html>
