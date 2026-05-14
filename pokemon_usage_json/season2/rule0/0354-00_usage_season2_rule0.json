@@ -1,0 +1,369 @@
+{
+  "pokemon_key": "0354-00",
+  "display_name": "ジュペッタ",
+  "season": 2,
+  "rule": 0,
+  "url": "https://champs.pokedb.tokyo/pokemon/show/0354-00?season=2&rule=0",
+  "title": "ジュペッタのデータ・採用技・テラスタイプ シーズンM-2（シングルバトル）｜バトルデータベース チャンピオンズ",
+  "sections": {
+    "技": {
+      "moves": [
+        {
+          "name": "みちづれ",
+          "rate": 96.5,
+          "type": "ゴースト"
+        },
+        {
+          "name": "ポルターガイスト",
+          "rate": 93.3,
+          "type": "ゴースト"
+        },
+        {
+          "name": "アンコール",
+          "rate": 76.9,
+          "type": "ノーマル"
+        },
+        {
+          "name": "かげうち",
+          "rate": 55.6,
+          "type": "ゴースト"
+        },
+        {
+          "name": "おにび",
+          "rate": 26.2,
+          "type": "ほのお"
+        },
+        {
+          "name": "ダストシュート",
+          "rate": 12.6,
+          "type": "どく"
+        },
+        {
+          "name": "ふいうち",
+          "rate": 9.3,
+          "type": "あく"
+        },
+        {
+          "name": "ちょうはつ",
+          "rate": 8.7,
+          "type": "あく"
+        },
+        {
+          "name": "はたきおとす",
+          "rate": 3.0,
+          "type": "あく"
+        },
+        {
+          "name": "シャドークロー",
+          "rate": 2.3,
+          "type": "ゴースト"
+        }
+      ],
+      "usages": []
+    },
+    "特性": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "おみとおし",
+          "rate": 83.1
+        },
+        {
+          "rank": 2,
+          "name": "ふみん",
+          "rate": 11.8
+        },
+        {
+          "rank": 3,
+          "name": "のろわれボディ",
+          "rate": 5.1
+        }
+      ]
+    },
+    "能力補正": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "いじっぱり ( A↑ C↓ )",
+          "rate": 71.2
+        },
+        {
+          "rank": 2,
+          "name": "ゆうかん ( A↑ S↓ )",
+          "rate": 21.9
+        },
+        {
+          "rank": 3,
+          "name": "ようき ( S↑ C↓ )",
+          "rate": 1.9
+        },
+        {
+          "rank": 4,
+          "name": "しんちょう ( D↑ C↓ )",
+          "rate": 1.7
+        },
+        {
+          "rank": 5,
+          "name": "わんぱく ( B↑ C↓ )",
+          "rate": 1.2
+        },
+        {
+          "rank": 6,
+          "name": "やんちゃ ( A↑ D↓ )",
+          "rate": 0.6
+        },
+        {
+          "rank": 7,
+          "name": "なまいき ( D↑ S↓ )",
+          "rate": 0.3
+        },
+        {
+          "rank": 8,
+          "name": "のんき ( B↑ S↓ )",
+          "rate": 0.3
+        },
+        {
+          "rank": 9,
+          "name": "おとなしい ( D↑ B↓ )",
+          "rate": 0.2
+        },
+        {
+          "rank": 10,
+          "name": "おくびょう ( S↑ A↓ )",
+          "rate": 0.1
+        }
+      ]
+    },
+    "持ち物": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "ジュペッタナイト",
+          "rate": 98.7
+        },
+        {
+          "rank": 2,
+          "name": "きあいのタスキ",
+          "rate": 0.6
+        },
+        {
+          "rank": 3,
+          "name": "こだわりスカーフ",
+          "rate": 0.2
+        },
+        {
+          "rank": 4,
+          "name": "おうじゃのしるし",
+          "rate": 0.1
+        },
+        {
+          "rank": 5,
+          "name": "のろいのおふだ",
+          "rate": 0.1
+        },
+        {
+          "rank": 6,
+          "name": "リザードナイトＹ",
+          "rate": 0.1
+        },
+        {
+          "rank": 7,
+          "name": "ミミロップナイト",
+          "rate": 0.1
+        }
+      ]
+    },
+    "能力ポイント": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "HA",
+          "rate": 72.9
+        },
+        {
+          "rank": 2,
+          "name": "AS",
+          "rate": 3.3
+        },
+        {
+          "rank": 3,
+          "name": "HD + ab",
+          "rate": 2.1
+        },
+        {
+          "rank": 4,
+          "name": "HA + bs",
+          "rate": 1.3
+        },
+        {
+          "rank": 5,
+          "name": "AB",
+          "rate": 1.0
+        },
+        {
+          "rank": 6,
+          "name": "HA + ds",
+          "rate": 0.9
+        },
+        {
+          "rank": 7,
+          "name": "HB + ds",
+          "rate": 0.7
+        },
+        {
+          "rank": 8,
+          "name": "HBD + s",
+          "rate": 0.7
+        },
+        {
+          "rank": 9,
+          "name": "HA + s",
+          "rate": 0.6
+        },
+        {
+          "rank": 1,
+          "name": "HA + b",
+          "rate": 34.4
+        },
+        {
+          "rank": 2,
+          "name": "HA + d",
+          "rate": 16.3
+        },
+        {
+          "rank": 3,
+          "name": "HA + s",
+          "rate": 13.6
+        },
+        {
+          "rank": 4,
+          "name": "HA + bd",
+          "rate": 3.0
+        },
+        {
+          "rank": 5,
+          "name": "AS + h",
+          "rate": 2.6
+        },
+        {
+          "rank": 6,
+          "name": "HA + s",
+          "rate": 2.1
+        },
+        {
+          "rank": 7,
+          "name": "HD + ab",
+          "rate": 2.1
+        },
+        {
+          "rank": 8,
+          "name": "HA",
+          "rate": 1.9
+        },
+        {
+          "rank": 9,
+          "name": "HA + bs",
+          "rate": 1.6
+        },
+        {
+          "rank": 10,
+          "name": "HA + bs",
+          "rate": 1.3
+        },
+        {
+          "rank": 11,
+          "name": "AB + h",
+          "rate": 1.0
+        },
+        {
+          "rank": 12,
+          "name": "HA + ds",
+          "rate": 0.9
+        },
+        {
+          "rank": 13,
+          "name": "AS + d",
+          "rate": 0.7
+        },
+        {
+          "rank": 14,
+          "name": "HB + ds",
+          "rate": 0.7
+        },
+        {
+          "rank": 15,
+          "name": "HBD + s",
+          "rate": 0.7
+        },
+        {
+          "rank": 16,
+          "name": "HA + s",
+          "rate": 0.6
+        }
+      ]
+    },
+    "同じチーム": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "ガブリアス",
+          "rate": null
+        },
+        {
+          "rank": 2,
+          "name": "アシレーヌ",
+          "rate": null
+        },
+        {
+          "rank": 3,
+          "name": "イダイトウ (オス)",
+          "rate": null
+        },
+        {
+          "rank": 4,
+          "name": "ブリジュラス",
+          "rate": null
+        },
+        {
+          "rank": 5,
+          "name": "ミミッキュ",
+          "rate": null
+        },
+        {
+          "rank": 6,
+          "name": "ウルガモス",
+          "rate": null
+        },
+        {
+          "rank": 7,
+          "name": "アーマーガア",
+          "rate": null
+        },
+        {
+          "rank": 8,
+          "name": "マスカーニャ",
+          "rate": null
+        },
+        {
+          "rank": 9,
+          "name": "ドドゲザン",
+          "rate": null
+        },
+        {
+          "rank": 10,
+          "name": "オオニューラ",
+          "rate": null
+        }
+      ]
+    }
+  },
+  "raw_counts": {
+    "move_items": 10,
+    "usage_items": 55
+  }
+}

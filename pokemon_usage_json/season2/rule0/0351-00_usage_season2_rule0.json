@@ -1,0 +1,349 @@
+{
+  "pokemon_key": "0351-00",
+  "display_name": "ポワルン",
+  "season": 2,
+  "rule": 0,
+  "url": "https://champs.pokedb.tokyo/pokemon/show/0351-00?season=2&rule=0",
+  "title": "ポワルンのデータ・採用技・テラスタイプ シーズンM-2（シングルバトル）｜バトルデータベース チャンピオンズ",
+  "sections": {
+    "技": {
+      "moves": [
+        {
+          "name": "ウェザーボール",
+          "rate": 66.7,
+          "type": "ノーマル"
+        },
+        {
+          "name": "ぼうふう",
+          "rate": 33.3,
+          "type": "ひこう"
+        },
+        {
+          "name": "でんじは",
+          "rate": 33.3,
+          "type": "でんき"
+        },
+        {
+          "name": "だいもんじ",
+          "rate": 28.6,
+          "type": "ほのお"
+        },
+        {
+          "name": "ソーラービーム",
+          "rate": 23.8,
+          "type": "くさ"
+        },
+        {
+          "name": "かみなり",
+          "rate": 23.8,
+          "type": "でんき"
+        },
+        {
+          "name": "こごえるかぜ",
+          "rate": 19.0,
+          "type": "こおり"
+        },
+        {
+          "name": "にほんばれ",
+          "rate": 19.0,
+          "type": "ほのお"
+        },
+        {
+          "name": "みらいよち",
+          "rate": 19.0,
+          "type": "エスパー"
+        },
+        {
+          "name": "ねっとう",
+          "rate": 19.0,
+          "type": "みず"
+        }
+      ],
+      "usages": []
+    },
+    "特性": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "てんきや",
+          "rate": 100.0
+        }
+      ]
+    },
+    "能力補正": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "ひかえめ ( C↑ A↓ )",
+          "rate": 38.1
+        },
+        {
+          "rank": 2,
+          "name": "おくびょう ( S↑ A↓ )",
+          "rate": 19.0
+        },
+        {
+          "rank": 3,
+          "name": "おっとり ( C↑ B↓ )",
+          "rate": 14.3
+        },
+        {
+          "rank": 4,
+          "name": "おだやか ( D↑ A↓ )",
+          "rate": 9.5
+        },
+        {
+          "rank": 5,
+          "name": "ずぶとい ( B↑ A↓ )",
+          "rate": 9.5
+        },
+        {
+          "rank": 6,
+          "name": "まじめ",
+          "rate": 4.8
+        },
+        {
+          "rank": 7,
+          "name": "むじゃき ( S↑ D↓ )",
+          "rate": 4.8
+        }
+      ]
+    },
+    "持ち物": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "きあいのタスキ",
+          "rate": 28.6
+        },
+        {
+          "rank": 2,
+          "name": "せんせいのツメ",
+          "rate": 19.0
+        },
+        {
+          "rank": 3,
+          "name": "こだわりスカーフ",
+          "rate": 14.3
+        },
+        {
+          "rank": 4,
+          "name": "オボンのみ",
+          "rate": 9.5
+        },
+        {
+          "rank": 5,
+          "name": "カゴのみ",
+          "rate": 4.8
+        },
+        {
+          "rank": 6,
+          "name": "ひかりのこな",
+          "rate": 4.8
+        },
+        {
+          "rank": 7,
+          "name": "きあいのハチマキ",
+          "rate": 4.8
+        },
+        {
+          "rank": 8,
+          "name": "たべのこし",
+          "rate": 4.8
+        },
+        {
+          "rank": 9,
+          "name": "しんぴのしずく",
+          "rate": 4.8
+        },
+        {
+          "rank": 10,
+          "name": "メガニウムナイト",
+          "rate": 4.8
+        }
+      ]
+    },
+    "能力ポイント": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "CS",
+          "rate": 38.1
+        },
+        {
+          "rank": 2,
+          "name": "HC",
+          "rate": 14.4
+        },
+        {
+          "rank": 3,
+          "name": "無振り",
+          "rate": 9.5
+        },
+        {
+          "rank": 4,
+          "name": "BC",
+          "rate": 4.8
+        },
+        {
+          "rank": 5,
+          "name": "BC + s",
+          "rate": 4.8
+        },
+        {
+          "rank": 6,
+          "name": "CD",
+          "rate": 4.8
+        },
+        {
+          "rank": 7,
+          "name": "HB",
+          "rate": 4.8
+        },
+        {
+          "rank": 8,
+          "name": "HCD + b",
+          "rate": 4.8
+        },
+        {
+          "rank": 9,
+          "name": "HD + bs",
+          "rate": 4.8
+        },
+        {
+          "rank": 1,
+          "name": "CS + h",
+          "rate": 19.0
+        },
+        {
+          "rank": 2,
+          "name": "無振り",
+          "rate": 9.5
+        },
+        {
+          "rank": 3,
+          "name": "CS + d",
+          "rate": 9.5
+        },
+        {
+          "rank": 4,
+          "name": "CD + s",
+          "rate": 4.8
+        },
+        {
+          "rank": 5,
+          "name": "CS + bd",
+          "rate": 4.8
+        },
+        {
+          "rank": 6,
+          "name": "CS + b",
+          "rate": 4.8
+        },
+        {
+          "rank": 7,
+          "name": "BC + s",
+          "rate": 4.8
+        },
+        {
+          "rank": 8,
+          "name": "BC + h",
+          "rate": 4.8
+        },
+        {
+          "rank": 9,
+          "name": "HC + s",
+          "rate": 4.8
+        },
+        {
+          "rank": 10,
+          "name": "HC + bd",
+          "rate": 4.8
+        },
+        {
+          "rank": 11,
+          "name": "HD + bs",
+          "rate": 4.8
+        },
+        {
+          "rank": 12,
+          "name": "HCD + b",
+          "rate": 4.8
+        },
+        {
+          "rank": 13,
+          "name": "HC + b",
+          "rate": 4.8
+        },
+        {
+          "rank": 14,
+          "name": "HB + d",
+          "rate": 4.8
+        }
+      ]
+    },
+    "同じチーム": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "リザードン",
+          "rate": null
+        },
+        {
+          "rank": 2,
+          "name": "ブリジュラス",
+          "rate": null
+        },
+        {
+          "rank": 3,
+          "name": "ペリッパー",
+          "rate": null
+        },
+        {
+          "rank": 4,
+          "name": "ユキメノコ",
+          "rate": null
+        },
+        {
+          "rank": 5,
+          "name": "アーマーガア",
+          "rate": null
+        },
+        {
+          "rank": 6,
+          "name": "カメックス",
+          "rate": null
+        },
+        {
+          "rank": 7,
+          "name": "ヤドキング (ガラル)",
+          "rate": null
+        },
+        {
+          "rank": 8,
+          "name": "アシレーヌ",
+          "rate": null
+        },
+        {
+          "rank": 9,
+          "name": "スターミー",
+          "rate": null
+        },
+        {
+          "rank": 10,
+          "name": "カイリュー",
+          "rate": null
+        }
+      ]
+    }
+  },
+  "raw_counts": {
+    "move_items": 10,
+    "usage_items": 51
+  }
+}

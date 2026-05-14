@@ -1,0 +1,284 @@
+{
+  "pokemon_key": "0479-00",
+  "display_name": "ロトム",
+  "season": 2,
+  "rule": 0,
+  "url": "https://champs.pokedb.tokyo/pokemon/show/0479-00?season=2&rule=0",
+  "title": "ロトムのデータ・採用技・テラスタイプ シーズンM-2（シングルバトル）｜バトルデータベース チャンピオンズ",
+  "sections": {
+    "技": {
+      "moves": [
+        {
+          "name": "ボルトチェンジ",
+          "rate": 77.8,
+          "type": "でんき"
+        },
+        {
+          "name": "シャドーボール",
+          "rate": 44.4,
+          "type": "ゴースト"
+        },
+        {
+          "name": "おにび",
+          "rate": 44.4,
+          "type": "ほのお"
+        },
+        {
+          "name": "トリック",
+          "rate": 38.9,
+          "type": "エスパー"
+        },
+        {
+          "name": "たたりめ",
+          "rate": 33.3,
+          "type": "ゴースト"
+        },
+        {
+          "name": "１０まんボルト",
+          "rate": 33.3,
+          "type": "でんき"
+        },
+        {
+          "name": "かみなり",
+          "rate": 22.2,
+          "type": "でんき"
+        },
+        {
+          "name": "いたみわけ",
+          "rate": 11.1,
+          "type": "ノーマル"
+        },
+        {
+          "name": "ほうでん",
+          "rate": 11.1,
+          "type": "でんき"
+        },
+        {
+          "name": "イカサマ",
+          "rate": 11.1,
+          "type": "あく"
+        }
+      ],
+      "usages": []
+    },
+    "特性": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "ふゆう",
+          "rate": 100.0
+        }
+      ]
+    },
+    "能力補正": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "おくびょう ( S↑ A↓ )",
+          "rate": 61.1
+        },
+        {
+          "rank": 2,
+          "name": "ひかえめ ( C↑ A↓ )",
+          "rate": 33.3
+        },
+        {
+          "rank": 3,
+          "name": "ずぶとい ( B↑ A↓ )",
+          "rate": 5.6
+        }
+      ]
+    },
+    "持ち物": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "こだわりスカーフ",
+          "rate": 38.9
+        },
+        {
+          "rank": 2,
+          "name": "オボンのみ",
+          "rate": 16.7
+        },
+        {
+          "rank": 3,
+          "name": "きあいのタスキ",
+          "rate": 16.7
+        },
+        {
+          "rank": 4,
+          "name": "じしゃく",
+          "rate": 11.1
+        },
+        {
+          "rank": 5,
+          "name": "カシブのみ",
+          "rate": 5.6
+        },
+        {
+          "rank": 6,
+          "name": "せんせいのツメ",
+          "rate": 5.6
+        },
+        {
+          "rank": 7,
+          "name": "たべのこし",
+          "rate": 5.6
+        }
+      ]
+    },
+    "能力ポイント": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "CS",
+          "rate": 71.8
+        },
+        {
+          "rank": 2,
+          "name": "HC",
+          "rate": 11.1
+        },
+        {
+          "rank": 3,
+          "name": "DS",
+          "rate": 5.6
+        },
+        {
+          "rank": 4,
+          "name": "HA",
+          "rate": 5.6
+        },
+        {
+          "rank": 5,
+          "name": "HS",
+          "rate": 5.6
+        },
+        {
+          "rank": 6,
+          "name": "HS + b",
+          "rate": 5.6
+        },
+        {
+          "rank": 1,
+          "name": "CS + h",
+          "rate": 38.9
+        },
+        {
+          "rank": 2,
+          "name": "CS + d",
+          "rate": 11.1
+        },
+        {
+          "rank": 3,
+          "name": "HC + d",
+          "rate": 11.1
+        },
+        {
+          "rank": 4,
+          "name": "CS + bd",
+          "rate": 5.6
+        },
+        {
+          "rank": 5,
+          "name": "DS + b",
+          "rate": 5.6
+        },
+        {
+          "rank": 6,
+          "name": "CS + b",
+          "rate": 5.6
+        },
+        {
+          "rank": 7,
+          "name": "CS + h",
+          "rate": 5.6
+        },
+        {
+          "rank": 8,
+          "name": "HS + d",
+          "rate": 5.6
+        },
+        {
+          "rank": 9,
+          "name": "HS + b",
+          "rate": 5.6
+        },
+        {
+          "rank": 10,
+          "name": "HA + s",
+          "rate": 5.6
+        },
+        {
+          "rank": 11,
+          "name": "CS",
+          "rate": 5.0
+        }
+      ]
+    },
+    "同じチーム": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "ガブリアス",
+          "rate": null
+        },
+        {
+          "rank": 2,
+          "name": "アマルルガ",
+          "rate": null
+        },
+        {
+          "rank": 3,
+          "name": "ゲンガー",
+          "rate": null
+        },
+        {
+          "rank": 4,
+          "name": "ルカリオ",
+          "rate": null
+        },
+        {
+          "rank": 5,
+          "name": "アシレーヌ",
+          "rate": null
+        },
+        {
+          "rank": 6,
+          "name": "ミミッキュ",
+          "rate": null
+        },
+        {
+          "rank": 7,
+          "name": "リザードン",
+          "rate": null
+        },
+        {
+          "rank": 8,
+          "name": "ギャラドス",
+          "rate": null
+        },
+        {
+          "rank": 9,
+          "name": "チルタリス",
+          "rate": null
+        },
+        {
+          "rank": 10,
+          "name": "ジュペッタ",
+          "rate": null
+        }
+      ]
+    }
+  },
+  "raw_counts": {
+    "move_items": 10,
+    "usage_items": 38
+  }
+}

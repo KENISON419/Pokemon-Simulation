@@ -1,0 +1,5869 @@
+{
+  "pokemons": [
+    {
+      "pokemon_key": "0001-00",
+      "display_name": "フシギダネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0002-00",
+      "display_name": "フシギソウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0003-00",
+      "display_name": "フシギバナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0004-00",
+      "display_name": "ヒトカゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0005-00",
+      "display_name": "リザード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0006-00",
+      "display_name": "リザードン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0007-00",
+      "display_name": "ゼニガメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0008-00",
+      "display_name": "カメール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0009-00",
+      "display_name": "カメックス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0010-00",
+      "display_name": "キャタピー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0011-00",
+      "display_name": "トランセル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0012-00",
+      "display_name": "バタフリー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0013-00",
+      "display_name": "ビードル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0014-00",
+      "display_name": "コクーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0015-00",
+      "display_name": "スピアー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0016-00",
+      "display_name": "ポッポ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0017-00",
+      "display_name": "ピジョン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0018-00",
+      "display_name": "ピジョット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0019-00",
+      "display_name": "コラッタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0019-01",
+      "display_name": "コラッタ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0020-00",
+      "display_name": "ラッタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0020-01",
+      "display_name": "ラッタ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0021-00",
+      "display_name": "オニスズメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0022-00",
+      "display_name": "オニドリル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0023-00",
+      "display_name": "アーボ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0024-00",
+      "display_name": "アーボック",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0025-00",
+      "display_name": "ピカチュウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0026-00",
+      "display_name": "ライチュウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0026-01",
+      "display_name": "ライチュウ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0027-00",
+      "display_name": "サンド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0027-01",
+      "display_name": "サンド (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0028-00",
+      "display_name": "サンドパン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0028-01",
+      "display_name": "サンドパン (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0029-00",
+      "display_name": "ニドラン♀",
+      "name_alias": "にどらんめす"
+    },
+    {
+      "pokemon_key": "0030-00",
+      "display_name": "ニドリーナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0031-00",
+      "display_name": "ニドクイン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0032-00",
+      "display_name": "ニドラン♂",
+      "name_alias": "にどらんおす"
+    },
+    {
+      "pokemon_key": "0033-00",
+      "display_name": "ニドリーノ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0034-00",
+      "display_name": "ニドキング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0035-00",
+      "display_name": "ピッピ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0036-00",
+      "display_name": "ピクシー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0037-00",
+      "display_name": "ロコン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0037-01",
+      "display_name": "ロコン (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0038-00",
+      "display_name": "キュウコン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0038-01",
+      "display_name": "キュウコン (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0039-00",
+      "display_name": "プリン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0040-00",
+      "display_name": "プクリン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0041-00",
+      "display_name": "ズバット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0042-00",
+      "display_name": "ゴルバット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0043-00",
+      "display_name": "ナゾノクサ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0044-00",
+      "display_name": "クサイハナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0045-00",
+      "display_name": "ラフレシア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0046-00",
+      "display_name": "パラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0047-00",
+      "display_name": "パラセクト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0048-00",
+      "display_name": "コンパン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0049-00",
+      "display_name": "モルフォン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0050-00",
+      "display_name": "ディグダ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0050-01",
+      "display_name": "ディグダ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0051-00",
+      "display_name": "ダグトリオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0051-01",
+      "display_name": "ダグトリオ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0052-00",
+      "display_name": "ニャース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0052-01",
+      "display_name": "ニャース (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0052-02",
+      "display_name": "ニャース (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0053-00",
+      "display_name": "ペルシアン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0053-01",
+      "display_name": "ペルシアン (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0054-00",
+      "display_name": "コダック",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0055-00",
+      "display_name": "ゴルダック",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0056-00",
+      "display_name": "マンキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0057-00",
+      "display_name": "オコリザル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0058-00",
+      "display_name": "ガーディ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0058-01",
+      "display_name": "ガーディ (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0059-00",
+      "display_name": "ウインディ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0059-01",
+      "display_name": "ウインディ (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0060-00",
+      "display_name": "ニョロモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0061-00",
+      "display_name": "ニョロゾ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0062-00",
+      "display_name": "ニョロボン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0063-00",
+      "display_name": "ケーシィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0064-00",
+      "display_name": "ユンゲラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0065-00",
+      "display_name": "フーディン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0066-00",
+      "display_name": "ワンリキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0067-00",
+      "display_name": "ゴーリキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0068-00",
+      "display_name": "カイリキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0069-00",
+      "display_name": "マダツボミ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0070-00",
+      "display_name": "ウツドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0071-00",
+      "display_name": "ウツボット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0072-00",
+      "display_name": "メノクラゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0073-00",
+      "display_name": "ドククラゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0074-00",
+      "display_name": "イシツブテ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0074-01",
+      "display_name": "イシツブテ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0075-00",
+      "display_name": "ゴローン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0075-01",
+      "display_name": "ゴローン (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0076-00",
+      "display_name": "ゴローニャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0076-01",
+      "display_name": "ゴローニャ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0077-00",
+      "display_name": "ポニータ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0077-01",
+      "display_name": "ポニータ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0078-00",
+      "display_name": "ギャロップ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0078-01",
+      "display_name": "ギャロップ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0079-00",
+      "display_name": "ヤドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0079-01",
+      "display_name": "ヤドン (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0080-00",
+      "display_name": "ヤドラン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0080-02",
+      "display_name": "ヤドラン (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0081-00",
+      "display_name": "コイル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0082-00",
+      "display_name": "レアコイル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0083-00",
+      "display_name": "カモネギ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0083-01",
+      "display_name": "カモネギ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0084-00",
+      "display_name": "ドードー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0085-00",
+      "display_name": "ドードリオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0086-00",
+      "display_name": "パウワウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0087-00",
+      "display_name": "ジュゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0088-00",
+      "display_name": "ベトベター",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0088-01",
+      "display_name": "ベトベター (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0089-00",
+      "display_name": "ベトベトン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0089-01",
+      "display_name": "ベトベトン (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0090-00",
+      "display_name": "シェルダー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0091-00",
+      "display_name": "パルシェン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0092-00",
+      "display_name": "ゴース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0093-00",
+      "display_name": "ゴースト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0094-00",
+      "display_name": "ゲンガー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0095-00",
+      "display_name": "イワーク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0096-00",
+      "display_name": "スリープ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0097-00",
+      "display_name": "スリーパー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0098-00",
+      "display_name": "クラブ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0099-00",
+      "display_name": "キングラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0100-00",
+      "display_name": "ビリリダマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0100-01",
+      "display_name": "ビリリダマ (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0101-00",
+      "display_name": "マルマイン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0101-01",
+      "display_name": "マルマイン (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0102-00",
+      "display_name": "タマタマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0103-00",
+      "display_name": "ナッシー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0103-01",
+      "display_name": "ナッシー (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0104-00",
+      "display_name": "カラカラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0105-00",
+      "display_name": "ガラガラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0105-01",
+      "display_name": "ガラガラ (アローラ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0106-00",
+      "display_name": "サワムラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0107-00",
+      "display_name": "エビワラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0108-00",
+      "display_name": "ベロリンガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0109-00",
+      "display_name": "ドガース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0110-00",
+      "display_name": "マタドガス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0110-01",
+      "display_name": "マタドガス (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0111-00",
+      "display_name": "サイホーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0112-00",
+      "display_name": "サイドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0113-00",
+      "display_name": "ラッキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0114-00",
+      "display_name": "モンジャラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0115-00",
+      "display_name": "ガルーラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0116-00",
+      "display_name": "タッツー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0117-00",
+      "display_name": "シードラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0118-00",
+      "display_name": "トサキント",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0119-00",
+      "display_name": "アズマオウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0120-00",
+      "display_name": "ヒトデマン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0121-00",
+      "display_name": "スターミー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0122-00",
+      "display_name": "バリヤード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0122-01",
+      "display_name": "バリヤード (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0123-00",
+      "display_name": "ストライク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0124-00",
+      "display_name": "ルージュラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0125-00",
+      "display_name": "エレブー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0126-00",
+      "display_name": "ブーバー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0127-00",
+      "display_name": "カイロス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0128-00",
+      "display_name": "ケンタロス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0128-01",
+      "display_name": "ケンタロス (コンバット)",
+      "name_alias": "格闘けんたろす,かくとうけんたろす"
+    },
+    {
+      "pokemon_key": "0128-02",
+      "display_name": "ケンタロス (ブレイズ)",
+      "name_alias": "炎けんたろす,ほのおけんたろす"
+    },
+    {
+      "pokemon_key": "0128-03",
+      "display_name": "ケンタロス (ウォーター)",
+      "name_alias": "水けんたろす,みずけんたろす"
+    },
+    {
+      "pokemon_key": "0129-00",
+      "display_name": "コイキング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0130-00",
+      "display_name": "ギャラドス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0131-00",
+      "display_name": "ラプラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0132-00",
+      "display_name": "メタモン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0133-00",
+      "display_name": "イーブイ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0134-00",
+      "display_name": "シャワーズ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0135-00",
+      "display_name": "サンダース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0136-00",
+      "display_name": "ブースター",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0137-00",
+      "display_name": "ポリゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0138-00",
+      "display_name": "オムナイト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0139-00",
+      "display_name": "オムスター",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0140-00",
+      "display_name": "カブト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0141-00",
+      "display_name": "カブトプス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0142-00",
+      "display_name": "プテラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0143-00",
+      "display_name": "カビゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0144-00",
+      "display_name": "フリーザー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0144-01",
+      "display_name": "フリーザー (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0145-00",
+      "display_name": "サンダー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0145-01",
+      "display_name": "サンダー (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0146-00",
+      "display_name": "ファイヤー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0146-01",
+      "display_name": "ファイヤー (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0147-00",
+      "display_name": "ミニリュウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0148-00",
+      "display_name": "ハクリュー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0149-00",
+      "display_name": "カイリュー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0150-00",
+      "display_name": "ミュウツー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0151-00",
+      "display_name": "ミュウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0152-00",
+      "display_name": "チコリータ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0153-00",
+      "display_name": "ベイリーフ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0154-00",
+      "display_name": "メガニウム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0155-00",
+      "display_name": "ヒノアラシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0156-00",
+      "display_name": "マグマラシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0157-00",
+      "display_name": "バクフーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0157-01",
+      "display_name": "バクフーン (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0158-00",
+      "display_name": "ワニノコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0159-00",
+      "display_name": "アリゲイツ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0160-00",
+      "display_name": "オーダイル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0161-00",
+      "display_name": "オタチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0162-00",
+      "display_name": "オオタチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0163-00",
+      "display_name": "ホーホー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0164-00",
+      "display_name": "ヨルノズク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0165-00",
+      "display_name": "レディバ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0166-00",
+      "display_name": "レディアン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0167-00",
+      "display_name": "イトマル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0168-00",
+      "display_name": "アリアドス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0169-00",
+      "display_name": "クロバット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0170-00",
+      "display_name": "チョンチー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0171-00",
+      "display_name": "ランターン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0172-00",
+      "display_name": "ピチュー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0173-00",
+      "display_name": "ピィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0174-00",
+      "display_name": "ププリン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0175-00",
+      "display_name": "トゲピー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0176-00",
+      "display_name": "トゲチック",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0177-00",
+      "display_name": "ネイティ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0178-00",
+      "display_name": "ネイティオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0179-00",
+      "display_name": "メリープ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0180-00",
+      "display_name": "モココ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0181-00",
+      "display_name": "デンリュウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0182-00",
+      "display_name": "キレイハナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0183-00",
+      "display_name": "マリル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0184-00",
+      "display_name": "マリルリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0185-00",
+      "display_name": "ウソッキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0186-00",
+      "display_name": "ニョロトノ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0187-00",
+      "display_name": "ハネッコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0188-00",
+      "display_name": "ポポッコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0189-00",
+      "display_name": "ワタッコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0190-00",
+      "display_name": "エイパム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0191-00",
+      "display_name": "ヒマナッツ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0192-00",
+      "display_name": "キマワリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0193-00",
+      "display_name": "ヤンヤンマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0194-00",
+      "display_name": "ウパー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0194-01",
+      "display_name": "ウパー (パルデア)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0195-00",
+      "display_name": "ヌオー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0196-00",
+      "display_name": "エーフィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0197-00",
+      "display_name": "ブラッキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0198-00",
+      "display_name": "ヤミカラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0199-00",
+      "display_name": "ヤドキング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0199-01",
+      "display_name": "ヤドキング (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0200-00",
+      "display_name": "ムウマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0201-00",
+      "display_name": "アンノーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0202-00",
+      "display_name": "ソーナンス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0203-00",
+      "display_name": "キリンリキ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0204-00",
+      "display_name": "クヌギダマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0205-00",
+      "display_name": "フォレトス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0206-00",
+      "display_name": "ノコッチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0207-00",
+      "display_name": "グライガー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0208-00",
+      "display_name": "ハガネール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0209-00",
+      "display_name": "ブルー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0210-00",
+      "display_name": "グランブル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0211-00",
+      "display_name": "ハリーセン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0211-01",
+      "display_name": "ハリーセン (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0212-00",
+      "display_name": "ハッサム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0213-00",
+      "display_name": "ツボツボ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0214-00",
+      "display_name": "ヘラクロス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0215-00",
+      "display_name": "ニューラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0215-01",
+      "display_name": "ニューラ (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0216-00",
+      "display_name": "ヒメグマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0217-00",
+      "display_name": "リングマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0218-00",
+      "display_name": "マグマッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0219-00",
+      "display_name": "マグカルゴ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0220-00",
+      "display_name": "ウリムー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0221-00",
+      "display_name": "イノムー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0222-00",
+      "display_name": "サニーゴ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0222-01",
+      "display_name": "サニーゴ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0223-00",
+      "display_name": "テッポウオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0224-00",
+      "display_name": "オクタン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0225-00",
+      "display_name": "デリバード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0226-00",
+      "display_name": "マンタイン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0227-00",
+      "display_name": "エアームド",
+      "name_alias": "むどー"
+    },
+    {
+      "pokemon_key": "0228-00",
+      "display_name": "デルビル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0229-00",
+      "display_name": "ヘルガー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0230-00",
+      "display_name": "キングドラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0231-00",
+      "display_name": "ゴマゾウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0232-00",
+      "display_name": "ドンファン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0233-00",
+      "display_name": "ポリゴン２",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0234-00",
+      "display_name": "オドシシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0235-00",
+      "display_name": "ドーブル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0236-00",
+      "display_name": "バルキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0237-00",
+      "display_name": "カポエラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0238-00",
+      "display_name": "ムチュール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0239-00",
+      "display_name": "エレキッド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0240-00",
+      "display_name": "ブビィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0241-00",
+      "display_name": "ミルタンク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0242-00",
+      "display_name": "ハピナス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0243-00",
+      "display_name": "ライコウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0244-00",
+      "display_name": "エンテイ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0245-00",
+      "display_name": "スイクン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0246-00",
+      "display_name": "ヨーギラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0247-00",
+      "display_name": "サナギラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0248-00",
+      "display_name": "バンギラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0249-00",
+      "display_name": "ルギア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0250-00",
+      "display_name": "ホウオウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0251-00",
+      "display_name": "セレビィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0252-00",
+      "display_name": "キモリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0253-00",
+      "display_name": "ジュプトル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0254-00",
+      "display_name": "ジュカイン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0255-00",
+      "display_name": "アチャモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0256-00",
+      "display_name": "ワカシャモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0257-00",
+      "display_name": "バシャーモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0258-00",
+      "display_name": "ミズゴロウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0259-00",
+      "display_name": "ヌマクロー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0260-00",
+      "display_name": "ラグラージ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0261-00",
+      "display_name": "ポチエナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0262-00",
+      "display_name": "グラエナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0263-00",
+      "display_name": "ジグザグマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0263-01",
+      "display_name": "ジグザグマ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0264-00",
+      "display_name": "マッスグマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0264-01",
+      "display_name": "マッスグマ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0265-00",
+      "display_name": "ケムッソ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0266-00",
+      "display_name": "カラサリス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0267-00",
+      "display_name": "アゲハント",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0268-00",
+      "display_name": "マユルド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0269-00",
+      "display_name": "ドクケイル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0270-00",
+      "display_name": "ハスボー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0271-00",
+      "display_name": "ハスブレロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0272-00",
+      "display_name": "ルンパッパ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0273-00",
+      "display_name": "タネボー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0274-00",
+      "display_name": "コノハナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0275-00",
+      "display_name": "ダーテング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0276-00",
+      "display_name": "スバメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0277-00",
+      "display_name": "オオスバメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0278-00",
+      "display_name": "キャモメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0279-00",
+      "display_name": "ペリッパー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0280-00",
+      "display_name": "ラルトス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0281-00",
+      "display_name": "キルリア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0282-00",
+      "display_name": "サーナイト",
+      "name_alias": "さな"
+    },
+    {
+      "pokemon_key": "0283-00",
+      "display_name": "アメタマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0284-00",
+      "display_name": "アメモース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0285-00",
+      "display_name": "キノココ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0286-00",
+      "display_name": "キノガッサ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0287-00",
+      "display_name": "ナマケロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0288-00",
+      "display_name": "ヤルキモノ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0289-00",
+      "display_name": "ケッキング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0290-00",
+      "display_name": "ツチニン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0291-00",
+      "display_name": "テッカニン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0292-00",
+      "display_name": "ヌケニン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0293-00",
+      "display_name": "ゴニョニョ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0294-00",
+      "display_name": "ドゴーム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0295-00",
+      "display_name": "バクオング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0296-00",
+      "display_name": "マクノシタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0297-00",
+      "display_name": "ハリテヤマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0298-00",
+      "display_name": "ルリリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0299-00",
+      "display_name": "ノズパス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0300-00",
+      "display_name": "エネコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0301-00",
+      "display_name": "エネコロロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0302-00",
+      "display_name": "ヤミラミ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0303-00",
+      "display_name": "クチート",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0304-00",
+      "display_name": "ココドラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0305-00",
+      "display_name": "コドラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0306-00",
+      "display_name": "ボスゴドラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0307-00",
+      "display_name": "アサナン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0308-00",
+      "display_name": "チャーレム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0309-00",
+      "display_name": "ラクライ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0310-00",
+      "display_name": "ライボルト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0311-00",
+      "display_name": "プラスル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0312-00",
+      "display_name": "マイナン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0313-00",
+      "display_name": "バルビート",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0314-00",
+      "display_name": "イルミーゼ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0315-00",
+      "display_name": "ロゼリア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0316-00",
+      "display_name": "ゴクリン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0317-00",
+      "display_name": "マルノーム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0318-00",
+      "display_name": "キバニア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0319-00",
+      "display_name": "サメハダー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0320-00",
+      "display_name": "ホエルコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0321-00",
+      "display_name": "ホエルオー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0322-00",
+      "display_name": "ドンメル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0323-00",
+      "display_name": "バクーダ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0324-00",
+      "display_name": "コータス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0325-00",
+      "display_name": "バネブー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0326-00",
+      "display_name": "ブーピッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0327-00",
+      "display_name": "パッチール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0328-00",
+      "display_name": "ナックラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0329-00",
+      "display_name": "ビブラーバ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0330-00",
+      "display_name": "フライゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0331-00",
+      "display_name": "サボネア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0332-00",
+      "display_name": "ノクタス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0333-00",
+      "display_name": "チルット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0334-00",
+      "display_name": "チルタリス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0335-00",
+      "display_name": "ザングース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0336-00",
+      "display_name": "ハブネーク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0337-00",
+      "display_name": "ルナトーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0338-00",
+      "display_name": "ソルロック",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0339-00",
+      "display_name": "ドジョッチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0340-00",
+      "display_name": "ナマズン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0341-00",
+      "display_name": "ヘイガニ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0342-00",
+      "display_name": "シザリガー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0343-00",
+      "display_name": "ヤジロン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0344-00",
+      "display_name": "ネンドール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0345-00",
+      "display_name": "リリーラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0346-00",
+      "display_name": "ユレイドル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0347-00",
+      "display_name": "アノプス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0348-00",
+      "display_name": "アーマルド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0349-00",
+      "display_name": "ヒンバス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0350-00",
+      "display_name": "ミロカロス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0351-00",
+      "display_name": "ポワルン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0352-00",
+      "display_name": "カクレオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0353-00",
+      "display_name": "カゲボウズ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0354-00",
+      "display_name": "ジュペッタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0355-00",
+      "display_name": "ヨマワル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0356-00",
+      "display_name": "サマヨール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0357-00",
+      "display_name": "トロピウス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0358-00",
+      "display_name": "チリーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0359-00",
+      "display_name": "アブソル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0360-00",
+      "display_name": "ソーナノ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0361-00",
+      "display_name": "ユキワラシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0362-00",
+      "display_name": "オニゴーリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0363-00",
+      "display_name": "タマザラシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0364-00",
+      "display_name": "トドグラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0365-00",
+      "display_name": "トドゼルガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0366-00",
+      "display_name": "パールル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0367-00",
+      "display_name": "ハンテール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0368-00",
+      "display_name": "サクラビス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0369-00",
+      "display_name": "ジーランス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0370-00",
+      "display_name": "ラブカス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0371-00",
+      "display_name": "タツベイ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0372-00",
+      "display_name": "コモルー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0373-00",
+      "display_name": "ボーマンダ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0374-00",
+      "display_name": "ダンバル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0375-00",
+      "display_name": "メタング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0376-00",
+      "display_name": "メタグロス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0377-00",
+      "display_name": "レジロック",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0378-00",
+      "display_name": "レジアイス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0379-00",
+      "display_name": "レジスチル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0380-00",
+      "display_name": "ラティアス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0381-00",
+      "display_name": "ラティオス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0382-00",
+      "display_name": "カイオーガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0383-00",
+      "display_name": "グラードン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0384-00",
+      "display_name": "レックウザ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0385-00",
+      "display_name": "ジラーチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0386-00",
+      "display_name": "デオキシス (ノーマル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0386-01",
+      "display_name": "デオキシス (アタック)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0386-02",
+      "display_name": "デオキシス (ディフェンス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0386-03",
+      "display_name": "デオキシス (スピード)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0387-00",
+      "display_name": "ナエトル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0388-00",
+      "display_name": "ハヤシガメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0389-00",
+      "display_name": "ドダイトス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0390-00",
+      "display_name": "ヒコザル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0391-00",
+      "display_name": "モウカザル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0392-00",
+      "display_name": "ゴウカザル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0393-00",
+      "display_name": "ポッチャマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0394-00",
+      "display_name": "ポッタイシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0395-00",
+      "display_name": "エンペルト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0396-00",
+      "display_name": "ムックル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0397-00",
+      "display_name": "ムクバード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0398-00",
+      "display_name": "ムクホーク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0399-00",
+      "display_name": "ビッパ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0400-00",
+      "display_name": "ビーダル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0401-00",
+      "display_name": "コロボーシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0402-00",
+      "display_name": "コロトック",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0403-00",
+      "display_name": "コリンク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0404-00",
+      "display_name": "ルクシオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0405-00",
+      "display_name": "レントラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0406-00",
+      "display_name": "スボミー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0407-00",
+      "display_name": "ロズレイド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0408-00",
+      "display_name": "ズガイドス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0409-00",
+      "display_name": "ラムパルド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0410-00",
+      "display_name": "タテトプス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0411-00",
+      "display_name": "トリデプス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0412-00",
+      "display_name": "ミノムッチ (くさき)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0412-01",
+      "display_name": "ミノムッチ (すなち)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0412-02",
+      "display_name": "ミノムッチ (ゴミ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0413-00",
+      "display_name": "ミノマダム (くさき)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0413-01",
+      "display_name": "ミノマダム (すなち)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0413-02",
+      "display_name": "ミノマダム (ゴミ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0414-00",
+      "display_name": "ガーメイル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0415-00",
+      "display_name": "ミツハニー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0416-00",
+      "display_name": "ビークイン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0417-00",
+      "display_name": "パチリス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0418-00",
+      "display_name": "ブイゼル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0419-00",
+      "display_name": "フローゼル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0420-00",
+      "display_name": "チェリンボ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0421-00",
+      "display_name": "チェリム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0422-00",
+      "display_name": "カラナクシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0423-00",
+      "display_name": "トリトドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0424-00",
+      "display_name": "エテボース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0425-00",
+      "display_name": "フワンテ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0426-00",
+      "display_name": "フワライド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0427-00",
+      "display_name": "ミミロル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0428-00",
+      "display_name": "ミミロップ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0429-00",
+      "display_name": "ムウマージ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0430-00",
+      "display_name": "ドンカラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0431-00",
+      "display_name": "ニャルマー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0432-00",
+      "display_name": "ブニャット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0433-00",
+      "display_name": "リーシャン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0434-00",
+      "display_name": "スカンプー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0435-00",
+      "display_name": "スカタンク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0436-00",
+      "display_name": "ドーミラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0437-00",
+      "display_name": "ドータクン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0438-00",
+      "display_name": "ウソハチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0439-00",
+      "display_name": "マネネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0440-00",
+      "display_name": "ピンプク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0441-00",
+      "display_name": "ペラップ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0442-00",
+      "display_name": "ミカルゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0443-00",
+      "display_name": "フカマル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0444-00",
+      "display_name": "ガバイト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0445-00",
+      "display_name": "ガブリアス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0446-00",
+      "display_name": "ゴンベ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0447-00",
+      "display_name": "リオル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0448-00",
+      "display_name": "ルカリオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0449-00",
+      "display_name": "ヒポポタス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0450-00",
+      "display_name": "カバルドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0451-00",
+      "display_name": "スコルピ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0452-00",
+      "display_name": "ドラピオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0453-00",
+      "display_name": "グレッグル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0454-00",
+      "display_name": "ドクロッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0455-00",
+      "display_name": "マスキッパ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0456-00",
+      "display_name": "ケイコウオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0457-00",
+      "display_name": "ネオラント",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0458-00",
+      "display_name": "タマンタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0459-00",
+      "display_name": "ユキカブリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0460-00",
+      "display_name": "ユキノオー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0461-00",
+      "display_name": "マニューラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0462-00",
+      "display_name": "ジバコイル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0463-00",
+      "display_name": "ベロベルト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0464-00",
+      "display_name": "ドサイドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0465-00",
+      "display_name": "モジャンボ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0466-00",
+      "display_name": "エレキブル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0467-00",
+      "display_name": "ブーバーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0468-00",
+      "display_name": "トゲキッス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0469-00",
+      "display_name": "メガヤンマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0470-00",
+      "display_name": "リーフィア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0471-00",
+      "display_name": "グレイシア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0472-00",
+      "display_name": "グライオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0473-00",
+      "display_name": "マンムー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0474-00",
+      "display_name": "ポリゴンＺ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0475-00",
+      "display_name": "エルレイド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0476-00",
+      "display_name": "ダイノーズ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0477-00",
+      "display_name": "ヨノワール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0478-00",
+      "display_name": "ユキメノコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0479-00",
+      "display_name": "ロトム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0479-01",
+      "display_name": "ヒートロトム",
+      "name_alias": "ひとむ,火ろとむ,炎ろとむ,ほのおろとむ"
+    },
+    {
+      "pokemon_key": "0479-02",
+      "display_name": "ウォッシュロトム",
+      "name_alias": "みとむ,水ろとむ,みずろとむ"
+    },
+    {
+      "pokemon_key": "0479-03",
+      "display_name": "フロストロトム",
+      "name_alias": "氷ろとむ,こおりろとむ"
+    },
+    {
+      "pokemon_key": "0479-04",
+      "display_name": "スピンロトム",
+      "name_alias": "飛行ろとむ,飛ろとむ,ひこうろとむ"
+    },
+    {
+      "pokemon_key": "0479-05",
+      "display_name": "カットロトム",
+      "name_alias": "かっとむ,草ろとむ,くさろとむ"
+    },
+    {
+      "pokemon_key": "0480-00",
+      "display_name": "ユクシー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0481-00",
+      "display_name": "エムリット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0482-00",
+      "display_name": "アグノム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0483-00",
+      "display_name": "ディアルガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0483-01",
+      "display_name": "ディアルガ (オリジン)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0484-00",
+      "display_name": "パルキア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0484-01",
+      "display_name": "パルキア (オリジン)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0485-00",
+      "display_name": "ヒードラン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0486-00",
+      "display_name": "レジギガス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0487-00",
+      "display_name": "ギラティナ (アナザー)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0487-01",
+      "display_name": "ギラティナ (オリジン)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0488-00",
+      "display_name": "クレセリア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0489-00",
+      "display_name": "フィオネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0490-00",
+      "display_name": "マナフィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0491-00",
+      "display_name": "ダークライ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0492-00",
+      "display_name": "シェイミ (ランド)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0492-01",
+      "display_name": "シェイミ (スカイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0493-00",
+      "display_name": "アルセウス",
+      "name_alias": "あるせうす（ノーマル）,のーまるあるせうす"
+    },
+    {
+      "pokemon_key": "0493-01",
+      "display_name": "アルセウス (かくとう)",
+      "name_alias": "あるせうす（格闘）,格闘あるせうす,かくとうあるせうす"
+    },
+    {
+      "pokemon_key": "0493-02",
+      "display_name": "アルセウス (ひこう)",
+      "name_alias": "あるせうす（飛行）,飛行あるせうす,ひこうあるせうす"
+    },
+    {
+      "pokemon_key": "0493-03",
+      "display_name": "アルセウス (どく)",
+      "name_alias": "あるせうす（毒）,毒あるせうす,どくあるせうす"
+    },
+    {
+      "pokemon_key": "0493-04",
+      "display_name": "アルセウス (じめん)",
+      "name_alias": "あるせうす（地面）,地面あるせうす,じめんあるせうす"
+    },
+    {
+      "pokemon_key": "0493-05",
+      "display_name": "アルセウス (いわ)",
+      "name_alias": "あるせうす（岩）,岩あるせうす,いわあるせうす"
+    },
+    {
+      "pokemon_key": "0493-06",
+      "display_name": "アルセウス (むし)",
+      "name_alias": "あるせうす（虫）,虫あるせうす,むしあるせうす"
+    },
+    {
+      "pokemon_key": "0493-07",
+      "display_name": "アルセウス (ゴースト)",
+      "name_alias": "あるせうす（霊）,霊あるせうす,ごーすとあるせうす"
+    },
+    {
+      "pokemon_key": "0493-08",
+      "display_name": "アルセウス (はがね)",
+      "name_alias": "あるせうす（鋼）,鋼あるせうす,はがねあるせうす"
+    },
+    {
+      "pokemon_key": "0493-09",
+      "display_name": "アルセウス (ほのお)",
+      "name_alias": "あるせうす（炎）,炎あるせうす,ほのおあるせうす"
+    },
+    {
+      "pokemon_key": "0493-10",
+      "display_name": "アルセウス (みず)",
+      "name_alias": "あるせうす（水）,水あるせうす,みずあるせうす"
+    },
+    {
+      "pokemon_key": "0493-11",
+      "display_name": "アルセウス (くさ)",
+      "name_alias": "あるせうす（草）,草あるせうす,くさあるせうす"
+    },
+    {
+      "pokemon_key": "0493-12",
+      "display_name": "アルセウス (でんき)",
+      "name_alias": "あるせうす（電気）,電気あるせうす,でんきあるせうす"
+    },
+    {
+      "pokemon_key": "0493-13",
+      "display_name": "アルセウス (エスパー)",
+      "name_alias": "あるせうす（超）,超あるせうす,えすぱーあるせうす"
+    },
+    {
+      "pokemon_key": "0493-14",
+      "display_name": "アルセウス (こおり)",
+      "name_alias": "あるせうす（氷）,氷あるせうす,こおりあるせうす"
+    },
+    {
+      "pokemon_key": "0493-15",
+      "display_name": "アルセウス (ドラゴン)",
+      "name_alias": "あるせうす（竜）,竜あるせうす,どらごんあるせうす"
+    },
+    {
+      "pokemon_key": "0493-16",
+      "display_name": "アルセウス (あく)",
+      "name_alias": "あるせうす（悪）,悪あるせうす,あくあるせうす"
+    },
+    {
+      "pokemon_key": "0493-17",
+      "display_name": "アルセウス (フェアリー)",
+      "name_alias": "あるせうす（妖）,妖あるせうす,ふぇありーあるせうす"
+    },
+    {
+      "pokemon_key": "0494-00",
+      "display_name": "ビクティニ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0495-00",
+      "display_name": "ツタージャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0496-00",
+      "display_name": "ジャノビー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0497-00",
+      "display_name": "ジャローダ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0498-00",
+      "display_name": "ポカブ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0499-00",
+      "display_name": "チャオブー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0500-00",
+      "display_name": "エンブオー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0501-00",
+      "display_name": "ミジュマル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0502-00",
+      "display_name": "フタチマル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0503-00",
+      "display_name": "ダイケンキ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0503-01",
+      "display_name": "ダイケンキ (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0504-00",
+      "display_name": "ミネズミ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0505-00",
+      "display_name": "ミルホッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0506-00",
+      "display_name": "ヨーテリー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0507-00",
+      "display_name": "ハーデリア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0508-00",
+      "display_name": "ムーランド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0509-00",
+      "display_name": "チョロネコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0510-00",
+      "display_name": "レパルダス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0511-00",
+      "display_name": "ヤナップ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0512-00",
+      "display_name": "ヤナッキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0513-00",
+      "display_name": "バオップ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0514-00",
+      "display_name": "バオッキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0515-00",
+      "display_name": "ヒヤップ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0516-00",
+      "display_name": "ヒヤッキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0517-00",
+      "display_name": "ムンナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0518-00",
+      "display_name": "ムシャーナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0519-00",
+      "display_name": "マメパト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0520-00",
+      "display_name": "ハトーボー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0521-00",
+      "display_name": "ケンホロウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0522-00",
+      "display_name": "シママ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0523-00",
+      "display_name": "ゼブライカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0524-00",
+      "display_name": "ダンゴロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0525-00",
+      "display_name": "ガントル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0526-00",
+      "display_name": "ギガイアス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0527-00",
+      "display_name": "コロモリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0528-00",
+      "display_name": "ココロモリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0529-00",
+      "display_name": "モグリュー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0530-00",
+      "display_name": "ドリュウズ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0531-00",
+      "display_name": "タブンネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0532-00",
+      "display_name": "ドッコラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0533-00",
+      "display_name": "ドテッコツ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0534-00",
+      "display_name": "ローブシン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0535-00",
+      "display_name": "オタマロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0536-00",
+      "display_name": "ガマガル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0537-00",
+      "display_name": "ガマゲロゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0538-00",
+      "display_name": "ナゲキ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0539-00",
+      "display_name": "ダゲキ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0540-00",
+      "display_name": "クルミル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0541-00",
+      "display_name": "クルマユ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0542-00",
+      "display_name": "ハハコモリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0543-00",
+      "display_name": "フシデ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0544-00",
+      "display_name": "ホイーガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0545-00",
+      "display_name": "ペンドラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0546-00",
+      "display_name": "モンメン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0547-00",
+      "display_name": "エルフーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0548-00",
+      "display_name": "チュリネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0549-00",
+      "display_name": "ドレディア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0549-01",
+      "display_name": "ドレディア (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0550-00",
+      "display_name": "バスラオ (あかすじ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0550-01",
+      "display_name": "バスラオ (あおすじ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0550-02",
+      "display_name": "バスラオ (しろすじ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0551-00",
+      "display_name": "メグロコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0552-00",
+      "display_name": "ワルビル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0553-00",
+      "display_name": "ワルビアル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0554-00",
+      "display_name": "ダルマッカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0554-01",
+      "display_name": "ダルマッカ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0555-00",
+      "display_name": "ヒヒダルマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0555-02",
+      "display_name": "ヒヒダルマ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0556-00",
+      "display_name": "マラカッチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0557-00",
+      "display_name": "イシズマイ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0558-00",
+      "display_name": "イワパレス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0559-00",
+      "display_name": "ズルッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0560-00",
+      "display_name": "ズルズキン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0561-00",
+      "display_name": "シンボラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0562-00",
+      "display_name": "デスマス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0562-01",
+      "display_name": "デスマス (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0563-00",
+      "display_name": "デスカーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0564-00",
+      "display_name": "プロトーガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0565-00",
+      "display_name": "アバゴーラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0566-00",
+      "display_name": "アーケン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0567-00",
+      "display_name": "アーケオス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0568-00",
+      "display_name": "ヤブクロン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0569-00",
+      "display_name": "ダストダス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0570-00",
+      "display_name": "ゾロア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0570-01",
+      "display_name": "ゾロア (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0571-00",
+      "display_name": "ゾロアーク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0571-01",
+      "display_name": "ゾロアーク (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0572-00",
+      "display_name": "チラーミィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0573-00",
+      "display_name": "チラチーノ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0574-00",
+      "display_name": "ゴチム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0575-00",
+      "display_name": "ゴチミル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0576-00",
+      "display_name": "ゴチルゼル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0577-00",
+      "display_name": "ユニラン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0578-00",
+      "display_name": "ダブラン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0579-00",
+      "display_name": "ランクルス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0580-00",
+      "display_name": "コアルヒー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0581-00",
+      "display_name": "スワンナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0582-00",
+      "display_name": "バニプッチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0583-00",
+      "display_name": "バニリッチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0584-00",
+      "display_name": "バイバニラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0585-00",
+      "display_name": "シキジカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0586-00",
+      "display_name": "メブキジカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0587-00",
+      "display_name": "エモンガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0588-00",
+      "display_name": "カブルモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0589-00",
+      "display_name": "シュバルゴ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0590-00",
+      "display_name": "タマゲタケ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0591-00",
+      "display_name": "モロバレル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0592-00",
+      "display_name": "プルリル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0593-00",
+      "display_name": "ブルンゲル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0594-00",
+      "display_name": "ママンボウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0595-00",
+      "display_name": "バチュル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0596-00",
+      "display_name": "デンチュラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0597-00",
+      "display_name": "テッシード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0598-00",
+      "display_name": "ナットレイ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0599-00",
+      "display_name": "ギアル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0600-00",
+      "display_name": "ギギアル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0601-00",
+      "display_name": "ギギギアル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0602-00",
+      "display_name": "シビシラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0603-00",
+      "display_name": "シビビール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0604-00",
+      "display_name": "シビルドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0605-00",
+      "display_name": "リグレー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0606-00",
+      "display_name": "オーベム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0607-00",
+      "display_name": "ヒトモシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0608-00",
+      "display_name": "ランプラー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0609-00",
+      "display_name": "シャンデラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0610-00",
+      "display_name": "キバゴ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0611-00",
+      "display_name": "オノンド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0612-00",
+      "display_name": "オノノクス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0613-00",
+      "display_name": "クマシュン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0614-00",
+      "display_name": "ツンベアー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0615-00",
+      "display_name": "フリージオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0616-00",
+      "display_name": "チョボマキ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0617-00",
+      "display_name": "アギルダー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0618-00",
+      "display_name": "マッギョ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0618-01",
+      "display_name": "マッギョ (ガラル)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0619-00",
+      "display_name": "コジョフー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0620-00",
+      "display_name": "コジョンド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0621-00",
+      "display_name": "クリムガン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0622-00",
+      "display_name": "ゴビット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0623-00",
+      "display_name": "ゴルーグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0624-00",
+      "display_name": "コマタナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0625-00",
+      "display_name": "キリキザン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0626-00",
+      "display_name": "バッフロン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0627-00",
+      "display_name": "ワシボン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0628-00",
+      "display_name": "ウォーグル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0628-01",
+      "display_name": "ウォーグル (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0629-00",
+      "display_name": "バルチャイ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0630-00",
+      "display_name": "バルジーナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0631-00",
+      "display_name": "クイタラン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0632-00",
+      "display_name": "アイアント",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0633-00",
+      "display_name": "モノズ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0634-00",
+      "display_name": "ジヘッド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0635-00",
+      "display_name": "サザンドラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0636-00",
+      "display_name": "メラルバ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0637-00",
+      "display_name": "ウルガモス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0638-00",
+      "display_name": "コバルオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0639-00",
+      "display_name": "テラキオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0640-00",
+      "display_name": "ビリジオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0641-00",
+      "display_name": "トルネロス (化身)",
+      "name_alias": "けしんとるねろす,化身とるねろす"
+    },
+    {
+      "pokemon_key": "0641-01",
+      "display_name": "トルネロス (霊獣)",
+      "name_alias": "れいじゅうとるねろす,霊獣とるねろす"
+    },
+    {
+      "pokemon_key": "0642-00",
+      "display_name": "ボルトロス (化身)",
+      "name_alias": "けしんぼるとろす,化身ぼるとろす"
+    },
+    {
+      "pokemon_key": "0642-01",
+      "display_name": "ボルトロス (霊獣)",
+      "name_alias": "れぼると,れいじゅうぼるとろす,霊獣ぼるとろす"
+    },
+    {
+      "pokemon_key": "0643-00",
+      "display_name": "レシラム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0644-00",
+      "display_name": "ゼクロム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0645-00",
+      "display_name": "ランドロス (化身)",
+      "name_alias": "けしんらんどろす,化身らんどろす"
+    },
+    {
+      "pokemon_key": "0645-01",
+      "display_name": "ランドロス (霊獣)",
+      "name_alias": "れいじゅうらんどろす,霊獣らんどろす"
+    },
+    {
+      "pokemon_key": "0646-00",
+      "display_name": "キュレム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0646-01",
+      "display_name": "ホワイトキュレム",
+      "name_alias": "ほわいときゅれむ"
+    },
+    {
+      "pokemon_key": "0646-02",
+      "display_name": "ブラックキュレム",
+      "name_alias": "ぶらっくきゅれむ"
+    },
+    {
+      "pokemon_key": "0647-00",
+      "display_name": "ケルディオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0648-00",
+      "display_name": "メロエッタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0649-00",
+      "display_name": "ゲノセクト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0650-00",
+      "display_name": "ハリマロン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0651-00",
+      "display_name": "ハリボーグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0652-00",
+      "display_name": "ブリガロン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0653-00",
+      "display_name": "フォッコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0654-00",
+      "display_name": "テールナー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0655-00",
+      "display_name": "マフォクシー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0656-00",
+      "display_name": "ケロマツ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0657-00",
+      "display_name": "ゲコガシラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0658-00",
+      "display_name": "ゲッコウガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0659-00",
+      "display_name": "ホルビー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0660-00",
+      "display_name": "ホルード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0661-00",
+      "display_name": "ヤヤコマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0662-00",
+      "display_name": "ヒノヤコマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0663-00",
+      "display_name": "ファイアロー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0664-00",
+      "display_name": "コフキムシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0665-00",
+      "display_name": "コフーライ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0666-18",
+      "display_name": "ビビヨン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0667-00",
+      "display_name": "シシコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0668-00",
+      "display_name": "カエンジシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0669-00",
+      "display_name": "フラベベ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0670-00",
+      "display_name": "フラエッテ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0670-05",
+      "display_name": "フラエッテ (えいえん)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0671-00",
+      "display_name": "フラージェス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0672-00",
+      "display_name": "メェークル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0673-00",
+      "display_name": "ゴーゴート",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0674-00",
+      "display_name": "ヤンチャム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0675-00",
+      "display_name": "ゴロンダ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0676-00",
+      "display_name": "トリミアン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0677-00",
+      "display_name": "ニャスパー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0678-00",
+      "display_name": "ニャオニクス (オス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0678-01",
+      "display_name": "ニャオニクス (メス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0679-00",
+      "display_name": "ヒトツキ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0680-00",
+      "display_name": "ニダンギル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0681-00",
+      "display_name": "ギルガルド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0682-00",
+      "display_name": "シュシュプ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0683-00",
+      "display_name": "フレフワン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0684-00",
+      "display_name": "ペロッパフ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0685-00",
+      "display_name": "ペロリーム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0686-00",
+      "display_name": "マーイーカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0687-00",
+      "display_name": "カラマネロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0688-00",
+      "display_name": "カメテテ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0689-00",
+      "display_name": "ガメノデス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0690-00",
+      "display_name": "クズモー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0691-00",
+      "display_name": "ドラミドロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0692-00",
+      "display_name": "ウデッポウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0693-00",
+      "display_name": "ブロスター",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0694-00",
+      "display_name": "エリキテル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0695-00",
+      "display_name": "エレザード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0696-00",
+      "display_name": "チゴラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0697-00",
+      "display_name": "ガチゴラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0698-00",
+      "display_name": "アマルス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0699-00",
+      "display_name": "アマルルガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0700-00",
+      "display_name": "ニンフィア",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0701-00",
+      "display_name": "ルチャブル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0702-00",
+      "display_name": "デデンネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0703-00",
+      "display_name": "メレシー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0704-00",
+      "display_name": "ヌメラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0705-00",
+      "display_name": "ヌメイル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0705-01",
+      "display_name": "ヌメイル (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0706-00",
+      "display_name": "ヌメルゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0706-01",
+      "display_name": "ヌメルゴン (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0707-00",
+      "display_name": "クレッフィ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0708-00",
+      "display_name": "ボクレー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0709-00",
+      "display_name": "オーロット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0710-00",
+      "display_name": "バケッチャ (ふつう)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0710-01",
+      "display_name": "バケッチャ (ちいさい)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0710-02",
+      "display_name": "バケッチャ (おおきい)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0710-03",
+      "display_name": "バケッチャ (とくだい)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0711-00",
+      "display_name": "パンプジン (ふつう)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0711-01",
+      "display_name": "パンプジン (ちいさい)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0711-02",
+      "display_name": "パンプジン (おおきい)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0711-03",
+      "display_name": "パンプジン (とくだい)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0712-00",
+      "display_name": "カチコール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0713-00",
+      "display_name": "クレベース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0713-01",
+      "display_name": "クレベース (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0714-00",
+      "display_name": "オンバット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0715-00",
+      "display_name": "オンバーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0716-00",
+      "display_name": "ゼルネアス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0717-00",
+      "display_name": "イベルタル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0718-00",
+      "display_name": "ジガルデ (50%)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0718-01",
+      "display_name": "ジガルデ (10%)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0718-02",
+      "display_name": "ジガルデ (10%)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0718-03",
+      "display_name": "ジガルデ (50%)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0719-00",
+      "display_name": "ディアンシー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0720-00",
+      "display_name": "フーパ (戒め)",
+      "name_alias": "ふーぱ（いましめ）,戒めふーぱ,いましめふーぱ,いましめられしふーぱ"
+    },
+    {
+      "pokemon_key": "0720-01",
+      "display_name": "フーパ (解放)",
+      "name_alias": "ふーぱ（かいほう）,解放ふーぱ,かいほうふーぱ,ときはなたれしふーぱ"
+    },
+    {
+      "pokemon_key": "0721-00",
+      "display_name": "ボルケニオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0722-00",
+      "display_name": "モクロー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0723-00",
+      "display_name": "フクスロー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0724-00",
+      "display_name": "ジュナイパー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0724-01",
+      "display_name": "ジュナイパー (ヒスイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0725-00",
+      "display_name": "ニャビー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0726-00",
+      "display_name": "ニャヒート",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0727-00",
+      "display_name": "ガオガエン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0728-00",
+      "display_name": "アシマリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0729-00",
+      "display_name": "オシャマリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0730-00",
+      "display_name": "アシレーヌ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0731-00",
+      "display_name": "ツツケラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0732-00",
+      "display_name": "ケララッパ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0733-00",
+      "display_name": "ドデカバシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0734-00",
+      "display_name": "ヤングース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0735-00",
+      "display_name": "デカグース",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0736-00",
+      "display_name": "アゴジムシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0737-00",
+      "display_name": "デンヂムシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0738-00",
+      "display_name": "クワガノン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0739-00",
+      "display_name": "マケンカニ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0740-00",
+      "display_name": "ケケンカニ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0741-00",
+      "display_name": "オドリドリ (めらめら)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0741-01",
+      "display_name": "オドリドリ (ぱちぱち)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0741-02",
+      "display_name": "オドリドリ (ふらふら)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0741-03",
+      "display_name": "オドリドリ (まいまい)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0742-00",
+      "display_name": "アブリー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0743-00",
+      "display_name": "アブリボン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0744-00",
+      "display_name": "イワンコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0745-00",
+      "display_name": "ルガルガン (まひる)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0745-01",
+      "display_name": "ルガルガン (まよなか)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0745-02",
+      "display_name": "ルガルガン (たそがれ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0746-00",
+      "display_name": "ヨワシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0747-00",
+      "display_name": "ヒドイデ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0748-00",
+      "display_name": "ドヒドイデ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0749-00",
+      "display_name": "ドロバンコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0750-00",
+      "display_name": "バンバドロ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0751-00",
+      "display_name": "シズクモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0752-00",
+      "display_name": "オニシズクモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0753-00",
+      "display_name": "カリキリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0754-00",
+      "display_name": "ラランテス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0755-00",
+      "display_name": "ネマシュ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0756-00",
+      "display_name": "マシェード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0757-00",
+      "display_name": "ヤトウモリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0758-00",
+      "display_name": "エンニュート",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0759-00",
+      "display_name": "ヌイコグマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0760-00",
+      "display_name": "キテルグマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0761-00",
+      "display_name": "アマカジ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0762-00",
+      "display_name": "アママイコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0763-00",
+      "display_name": "アマージョ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0764-00",
+      "display_name": "キュワワー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0765-00",
+      "display_name": "ヤレユータン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0766-00",
+      "display_name": "ナゲツケサル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0767-00",
+      "display_name": "コソクムシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0768-00",
+      "display_name": "グソクムシャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0769-00",
+      "display_name": "スナバァ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0770-00",
+      "display_name": "シロデスナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0771-00",
+      "display_name": "ナマコブシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0772-00",
+      "display_name": "タイプ：ヌル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-00",
+      "display_name": "シルヴァディ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-01",
+      "display_name": "シルヴァディ (ファイト)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-02",
+      "display_name": "シルヴァディ (フライング)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-03",
+      "display_name": "シルヴァディ (ポイズン)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-04",
+      "display_name": "シルヴァディ (グラウンド)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-05",
+      "display_name": "シルヴァディ (ロック)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-06",
+      "display_name": "シルヴァディ (バグ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-07",
+      "display_name": "シルヴァディ (ゴースト)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-08",
+      "display_name": "シルヴァディ (スチール)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-09",
+      "display_name": "シルヴァディ (ファイヤー)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-10",
+      "display_name": "シルヴァディ (ウオーター)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-11",
+      "display_name": "シルヴァディ (グラス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-12",
+      "display_name": "シルヴァディ (エレクトロ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-13",
+      "display_name": "シルヴァディ (サイキック)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-14",
+      "display_name": "シルヴァディ (アイス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-15",
+      "display_name": "シルヴァディ (ドラゴン)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-16",
+      "display_name": "シルヴァディ (ダーク)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0773-17",
+      "display_name": "シルヴァディ (フェアリー)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0774-07",
+      "display_name": "メテノ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0775-00",
+      "display_name": "ネッコアラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0776-00",
+      "display_name": "バクガメス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0777-00",
+      "display_name": "トゲデマル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0778-00",
+      "display_name": "ミミッキュ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0779-00",
+      "display_name": "ハギギシリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0780-00",
+      "display_name": "ジジーロン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0781-00",
+      "display_name": "ダダリン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0782-00",
+      "display_name": "ジャラコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0783-00",
+      "display_name": "ジャランゴ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0784-00",
+      "display_name": "ジャラランガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0785-00",
+      "display_name": "カプ・コケコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0786-00",
+      "display_name": "カプ・テテフ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0787-00",
+      "display_name": "カプ・ブルル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0788-00",
+      "display_name": "カプ・レヒレ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0789-00",
+      "display_name": "コスモッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0790-00",
+      "display_name": "コスモウム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0791-00",
+      "display_name": "ソルガレオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0792-00",
+      "display_name": "ルナアーラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0793-00",
+      "display_name": "ウツロイド",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0794-00",
+      "display_name": "マッシブーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0795-00",
+      "display_name": "フェローチェ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0796-00",
+      "display_name": "デンジュモク",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0797-00",
+      "display_name": "テッカグヤ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0798-00",
+      "display_name": "カミツルギ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0799-00",
+      "display_name": "アクジキング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0800-00",
+      "display_name": "ネクロズマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0800-01",
+      "display_name": "ネクロズマ (日食)",
+      "name_alias": "にちねく,日ねく,にっしょく,日食ねくろずま"
+    },
+    {
+      "pokemon_key": "0800-02",
+      "display_name": "ネクロズマ (月食)",
+      "name_alias": "つきねく,月ねく,げつねく,げっしょく,月食ねくろずま"
+    },
+    {
+      "pokemon_key": "0801-00",
+      "display_name": "マギアナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0802-00",
+      "display_name": "マーシャドー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0803-00",
+      "display_name": "ベベノム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0804-00",
+      "display_name": "アーゴヨン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0805-00",
+      "display_name": "ツンデツンデ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0806-00",
+      "display_name": "ズガドーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0807-00",
+      "display_name": "ゼラオラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0808-00",
+      "display_name": "メルタン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0809-00",
+      "display_name": "メルメタル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0810-00",
+      "display_name": "サルノリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0811-00",
+      "display_name": "バチンキー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0812-00",
+      "display_name": "ゴリランダー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0813-00",
+      "display_name": "ヒバニー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0814-00",
+      "display_name": "ラビフット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0815-00",
+      "display_name": "エースバーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0816-00",
+      "display_name": "メッソン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0817-00",
+      "display_name": "ジメレオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0818-00",
+      "display_name": "インテレオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0819-00",
+      "display_name": "ホシガリス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0820-00",
+      "display_name": "ヨクバリス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0821-00",
+      "display_name": "ココガラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0822-00",
+      "display_name": "アオガラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0823-00",
+      "display_name": "アーマーガア",
+      "name_alias": "あまが"
+    },
+    {
+      "pokemon_key": "0824-00",
+      "display_name": "サッチムシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0825-00",
+      "display_name": "レドームシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0826-00",
+      "display_name": "イオルブ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0827-00",
+      "display_name": "クスネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0828-00",
+      "display_name": "フォクスライ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0829-00",
+      "display_name": "ヒメンカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0830-00",
+      "display_name": "ワタシラガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0831-00",
+      "display_name": "ウールー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0832-00",
+      "display_name": "バイウールー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0833-00",
+      "display_name": "カムカメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0834-00",
+      "display_name": "カジリガメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0835-00",
+      "display_name": "ワンパチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0836-00",
+      "display_name": "パルスワン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0837-00",
+      "display_name": "タンドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0838-00",
+      "display_name": "トロッゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0839-00",
+      "display_name": "セキタンザン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0840-00",
+      "display_name": "カジッチュ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0841-00",
+      "display_name": "アップリュー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0842-00",
+      "display_name": "タルップル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0843-00",
+      "display_name": "スナヘビ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0844-00",
+      "display_name": "サダイジャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0845-00",
+      "display_name": "ウッウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0846-00",
+      "display_name": "サシカマス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0847-00",
+      "display_name": "カマスジョー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0848-00",
+      "display_name": "エレズン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0849-00",
+      "display_name": "ストリンダー (ハイ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0849-01",
+      "display_name": "ストリンダー (ロー)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0850-00",
+      "display_name": "ヤクデ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0851-00",
+      "display_name": "マルヤクデ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0852-00",
+      "display_name": "タタッコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0853-00",
+      "display_name": "オトスパス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0854-00",
+      "display_name": "ヤバチャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0855-00",
+      "display_name": "ポットデス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0856-00",
+      "display_name": "ミブリム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0857-00",
+      "display_name": "テブリム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0858-00",
+      "display_name": "ブリムオン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0859-00",
+      "display_name": "ベロバー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0860-00",
+      "display_name": "ギモー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0861-00",
+      "display_name": "オーロンゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0862-00",
+      "display_name": "タチフサグマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0863-00",
+      "display_name": "ニャイキング",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0864-00",
+      "display_name": "サニゴーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0865-00",
+      "display_name": "ネギガナイト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0866-00",
+      "display_name": "バリコオル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0867-00",
+      "display_name": "デスバーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0868-00",
+      "display_name": "マホミル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0869-00",
+      "display_name": "マホイップ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0870-00",
+      "display_name": "タイレーツ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0871-00",
+      "display_name": "バチンウニ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0872-00",
+      "display_name": "ユキハミ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0873-00",
+      "display_name": "モスノウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0874-00",
+      "display_name": "イシヘンジン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0875-00",
+      "display_name": "コオリッポ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0876-00",
+      "display_name": "イエッサン (オス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0876-01",
+      "display_name": "イエッサン (メス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0877-00",
+      "display_name": "モルペコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0878-00",
+      "display_name": "ゾウドウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0879-00",
+      "display_name": "ダイオウドウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0880-00",
+      "display_name": "パッチラゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0881-00",
+      "display_name": "パッチルドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0882-00",
+      "display_name": "ウオノラゴン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0883-00",
+      "display_name": "ウオチルドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0884-00",
+      "display_name": "ジュラルドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0885-00",
+      "display_name": "ドラメシヤ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0886-00",
+      "display_name": "ドロンチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0887-00",
+      "display_name": "ドラパルト",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0888-00",
+      "display_name": "ザシアン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0889-00",
+      "display_name": "ザマゼンタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0890-00",
+      "display_name": "ムゲンダイナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0891-00",
+      "display_name": "ダクマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0892-00",
+      "display_name": "ウーラオス (一撃)",
+      "name_alias": "いちげきうーらおす,一撃うーらおす,悪うーらおす,あくうーらおす"
+    },
+    {
+      "pokemon_key": "0892-01",
+      "display_name": "ウーラオス (連撃)",
+      "name_alias": "れんげきうーらおす,連撃うーらおす,水うーらおす,みずうーらおす"
+    },
+    {
+      "pokemon_key": "0893-00",
+      "display_name": "ザルード",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0894-00",
+      "display_name": "レジエレキ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0895-00",
+      "display_name": "レジドラゴ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0896-00",
+      "display_name": "ブリザポス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0897-00",
+      "display_name": "レイスポス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0898-00",
+      "display_name": "バドレックス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0898-01",
+      "display_name": "バドレックス (白馬)",
+      "name_alias": "しろばど,白ばど,白馬ばど"
+    },
+    {
+      "pokemon_key": "0898-02",
+      "display_name": "バドレックス (黒馬)",
+      "name_alias": "くろばど,黒ばど,黒馬ばど"
+    },
+    {
+      "pokemon_key": "0899-00",
+      "display_name": "アヤシシ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0900-00",
+      "display_name": "バサギリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0901-00",
+      "display_name": "ガチグマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0901-01",
+      "display_name": "ガチグマ (アカツキ)",
+      "name_alias": "暁月,赫月"
+    },
+    {
+      "pokemon_key": "0902-00",
+      "display_name": "イダイトウ (オス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0902-01",
+      "display_name": "イダイトウ (メス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0903-00",
+      "display_name": "オオニューラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0904-00",
+      "display_name": "ハリーマン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0905-00",
+      "display_name": "ラブトロス (化身)",
+      "name_alias": "けしんらぶとろす,化身らぶとろす"
+    },
+    {
+      "pokemon_key": "0905-01",
+      "display_name": "ラブトロス (霊獣)",
+      "name_alias": "れいじゅうらぶとろす,霊獣らぶとろす"
+    },
+    {
+      "pokemon_key": "0906-00",
+      "display_name": "ニャオハ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0907-00",
+      "display_name": "ニャローテ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0908-00",
+      "display_name": "マスカーニャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0909-00",
+      "display_name": "ホゲータ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0910-00",
+      "display_name": "アチゲータ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0911-00",
+      "display_name": "ラウドボーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0912-00",
+      "display_name": "クワッス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0913-00",
+      "display_name": "ウェルカモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0914-00",
+      "display_name": "ウェーニバル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0915-00",
+      "display_name": "グルトン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0916-00",
+      "display_name": "パフュートン (オス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0916-01",
+      "display_name": "パフュートン (メス)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0917-00",
+      "display_name": "タマンチュラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0918-00",
+      "display_name": "ワナイダー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0919-00",
+      "display_name": "マメバッタ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0920-00",
+      "display_name": "エクスレッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0921-00",
+      "display_name": "パモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0922-00",
+      "display_name": "パモット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0923-00",
+      "display_name": "パーモット",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0924-00",
+      "display_name": "ワッカネズミ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0925-00",
+      "display_name": "イッカネズミ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0926-00",
+      "display_name": "パピモッチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0927-00",
+      "display_name": "バウッツェル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0928-00",
+      "display_name": "ミニーブ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0929-00",
+      "display_name": "オリーニョ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0930-00",
+      "display_name": "オリーヴァ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0931-00",
+      "display_name": "イキリンコ (グリーン)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0931-01",
+      "display_name": "イキリンコ (ブルー)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0931-02",
+      "display_name": "イキリンコ (イエロー)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0931-03",
+      "display_name": "イキリンコ (ホワイト)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0932-00",
+      "display_name": "コジオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0933-00",
+      "display_name": "ジオヅム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0934-00",
+      "display_name": "キョジオーン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0935-00",
+      "display_name": "カルボウ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0936-00",
+      "display_name": "グレンアルマ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0937-00",
+      "display_name": "ソウブレイズ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0938-00",
+      "display_name": "ズピカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0939-00",
+      "display_name": "ハラバリー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0940-00",
+      "display_name": "カイデン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0941-00",
+      "display_name": "タイカイデン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0942-00",
+      "display_name": "オラチフ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0943-00",
+      "display_name": "マフィティフ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0944-00",
+      "display_name": "シルシュルー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0945-00",
+      "display_name": "タギングル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0946-00",
+      "display_name": "アノクサ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0947-00",
+      "display_name": "アノホラグサ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0948-00",
+      "display_name": "ノノクラゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0949-00",
+      "display_name": "リククラゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0950-00",
+      "display_name": "ガケガニ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0951-00",
+      "display_name": "カプサイジ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0952-00",
+      "display_name": "スコヴィラン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0953-00",
+      "display_name": "シガロコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0954-00",
+      "display_name": "ベラカス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0955-00",
+      "display_name": "ヒラヒナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0956-00",
+      "display_name": "クエスパトラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0957-00",
+      "display_name": "カヌチャン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0958-00",
+      "display_name": "ナカヌチャン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0959-00",
+      "display_name": "デカヌチャン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0960-00",
+      "display_name": "ウミディグダ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0961-00",
+      "display_name": "ウミトリオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0962-00",
+      "display_name": "オトシドリ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0963-00",
+      "display_name": "ナミイルカ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0964-00",
+      "display_name": "イルカマン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0965-00",
+      "display_name": "ブロロン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0966-00",
+      "display_name": "ブロロローム",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0967-00",
+      "display_name": "モトトカゲ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0968-00",
+      "display_name": "ミミズズ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0969-00",
+      "display_name": "キラーメ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0970-00",
+      "display_name": "キラフロル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0971-00",
+      "display_name": "ボチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0972-00",
+      "display_name": "ハカドッグ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0973-00",
+      "display_name": "カラミンゴ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0974-00",
+      "display_name": "アルクジラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0975-00",
+      "display_name": "ハルクジラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0976-00",
+      "display_name": "ミガルーサ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0977-00",
+      "display_name": "ヘイラッシャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0978-00",
+      "display_name": "シャリタツ (そった)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0978-01",
+      "display_name": "シャリタツ (たれた)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0978-02",
+      "display_name": "シャリタツ (のびた)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0979-00",
+      "display_name": "コノヨザル",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0980-00",
+      "display_name": "ドオー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0981-00",
+      "display_name": "リキキリン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0982-00",
+      "display_name": "ノココッチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0983-00",
+      "display_name": "ドドゲザン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0984-00",
+      "display_name": "イダイナキバ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0985-00",
+      "display_name": "サケブシッポ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0986-00",
+      "display_name": "アラブルタケ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0987-00",
+      "display_name": "ハバタクカミ",
+      "name_alias": "はばかみ"
+    },
+    {
+      "pokemon_key": "0988-00",
+      "display_name": "チヲハウハネ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0989-00",
+      "display_name": "スナノケガワ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0990-00",
+      "display_name": "テツノワダチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0991-00",
+      "display_name": "テツノツツミ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0992-00",
+      "display_name": "テツノカイナ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0993-00",
+      "display_name": "テツノコウベ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0994-00",
+      "display_name": "テツノドクガ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0995-00",
+      "display_name": "テツノイバラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0996-00",
+      "display_name": "セビエ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0997-00",
+      "display_name": "セゴール",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0998-00",
+      "display_name": "セグレイブ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0999-00",
+      "display_name": "コレクレー (はこ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "0999-01",
+      "display_name": "コレクレー (とほ)",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1000-00",
+      "display_name": "サーフゴー",
+      "name_alias": "さふご"
+    },
+    {
+      "pokemon_key": "1001-00",
+      "display_name": "チオンジェン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1002-00",
+      "display_name": "パオジアン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1003-00",
+      "display_name": "ディンルー",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1004-00",
+      "display_name": "イーユイ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1005-00",
+      "display_name": "トドロクツキ",
+      "name_alias": "とどつき"
+    },
+    {
+      "pokemon_key": "1006-00",
+      "display_name": "テツノブジン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1007-00",
+      "display_name": "コライドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1008-00",
+      "display_name": "ミライドン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1009-00",
+      "display_name": "ウネルミナモ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1010-00",
+      "display_name": "テツノイサハ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1011-00",
+      "display_name": "カミッチュ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1012-00",
+      "display_name": "チャデス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1013-00",
+      "display_name": "ヤバソチャ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1014-00",
+      "display_name": "イイネイヌ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1015-00",
+      "display_name": "マシマシラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1016-00",
+      "display_name": "キチキギス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1017-00",
+      "display_name": "オーガポン",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1018-00",
+      "display_name": "ブリジュラス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1019-00",
+      "display_name": "カミツオロチ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1020-00",
+      "display_name": "ウガツホムラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1021-00",
+      "display_name": "タケルライコ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1022-00",
+      "display_name": "テツノイワオ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1023-00",
+      "display_name": "テツノカシラ",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1024-00",
+      "display_name": "テラパゴス",
+      "name_alias": ""
+    },
+    {
+      "pokemon_key": "1025-00",
+      "display_name": "モモワロウ",
+      "name_alias": ""
+    }
+  ]
+}

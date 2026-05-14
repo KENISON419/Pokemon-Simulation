@@ -1,0 +1,364 @@
+{
+  "pokemon_key": "0205-00",
+  "display_name": "フォレトス",
+  "season": 2,
+  "rule": 0,
+  "url": "https://champs.pokedb.tokyo/pokemon/show/0205-00?season=2&rule=0",
+  "title": "フォレトスのデータ・採用技・テラスタイプ シーズンM-2（シングルバトル）｜バトルデータベース チャンピオンズ",
+  "sections": {
+    "技": {
+      "moves": [
+        {
+          "name": "ステルスロック",
+          "rate": 71.3,
+          "type": "いわ"
+        },
+        {
+          "name": "ボディプレス",
+          "rate": 53.4,
+          "type": "かくとう"
+        },
+        {
+          "name": "こうそくスピン",
+          "rate": 48.7,
+          "type": "ノーマル"
+        },
+        {
+          "name": "ボルトチェンジ",
+          "rate": 41.5,
+          "type": "でんき"
+        },
+        {
+          "name": "だいばくはつ",
+          "rate": 30.7,
+          "type": "ノーマル"
+        },
+        {
+          "name": "アイススピナー",
+          "rate": 22.4,
+          "type": "こおり"
+        },
+        {
+          "name": "てっぺき",
+          "rate": 17.3,
+          "type": "はがね"
+        },
+        {
+          "name": "どくびし",
+          "rate": 15.2,
+          "type": "どく"
+        },
+        {
+          "name": "ジャイロボール",
+          "rate": 13.4,
+          "type": "はがね"
+        },
+        {
+          "name": "でんじは",
+          "rate": 9.6,
+          "type": "でんき"
+        }
+      ],
+      "usages": []
+    },
+    "特性": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "がんじょう",
+          "rate": 97.3
+        },
+        {
+          "rank": 2,
+          "name": "ぼうじん",
+          "rate": 2.7
+        }
+      ]
+    },
+    "能力補正": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "のんき ( B↑ S↓ )",
+          "rate": 40.6
+        },
+        {
+          "rank": 2,
+          "name": "わんぱく ( B↑ C↓ )",
+          "rate": 22.4
+        },
+        {
+          "rank": 3,
+          "name": "いじっぱり ( A↑ C↓ )",
+          "rate": 15.8
+        },
+        {
+          "rank": 4,
+          "name": "ゆうかん ( A↑ S↓ )",
+          "rate": 8.4
+        },
+        {
+          "rank": 5,
+          "name": "しんちょう ( D↑ C↓ )",
+          "rate": 3.9
+        },
+        {
+          "rank": 6,
+          "name": "なまいき ( D↑ S↓ )",
+          "rate": 3.3
+        },
+        {
+          "rank": 7,
+          "name": "ずぶとい ( B↑ A↓ )",
+          "rate": 2.7
+        },
+        {
+          "rank": 8,
+          "name": "ようき ( S↑ C↓ )",
+          "rate": 1.2
+        },
+        {
+          "rank": 9,
+          "name": "おだやか ( D↑ A↓ )",
+          "rate": 0.6
+        },
+        {
+          "rank": 10,
+          "name": "おくびょう ( S↑ A↓ )",
+          "rate": 0.3
+        }
+      ]
+    },
+    "持ち物": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "オボンのみ",
+          "rate": 29.9
+        },
+        {
+          "rank": 2,
+          "name": "たべのこし",
+          "rate": 17.9
+        },
+        {
+          "rank": 3,
+          "name": "メンタルハーブ",
+          "rate": 11.6
+        },
+        {
+          "rank": 4,
+          "name": "せんせいのツメ",
+          "rate": 10.4
+        },
+        {
+          "rank": 5,
+          "name": "ひかりのこな",
+          "rate": 8.1
+        },
+        {
+          "rank": 6,
+          "name": "シルクのスカーフ",
+          "rate": 7.2
+        },
+        {
+          "rank": 7,
+          "name": "ラムのみ",
+          "rate": 3.9
+        },
+        {
+          "rank": 8,
+          "name": "とけないこおり",
+          "rate": 2.1
+        },
+        {
+          "rank": 9,
+          "name": "オッカのみ",
+          "rate": 1.8
+        },
+        {
+          "rank": 10,
+          "name": "くろおび",
+          "rate": 1.5
+        }
+      ]
+    },
+    "能力ポイント": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "HB",
+          "rate": 50.6
+        },
+        {
+          "rank": 2,
+          "name": "HA",
+          "rate": 8.7
+        },
+        {
+          "rank": 3,
+          "name": "HD",
+          "rate": 6.6
+        },
+        {
+          "rank": 4,
+          "name": "AB",
+          "rate": 5.4
+        },
+        {
+          "rank": 5,
+          "name": "BD",
+          "rate": 1.8
+        },
+        {
+          "rank": 6,
+          "name": "AS",
+          "rate": 1.2
+        },
+        {
+          "rank": 1,
+          "name": "HB + d",
+          "rate": 25.1
+        },
+        {
+          "rank": 2,
+          "name": "HB + d",
+          "rate": 8.1
+        },
+        {
+          "rank": 3,
+          "name": "HB + a",
+          "rate": 7.5
+        },
+        {
+          "rank": 4,
+          "name": "HA + b",
+          "rate": 6.0
+        },
+        {
+          "rank": 5,
+          "name": "AB + h",
+          "rate": 4.2
+        },
+        {
+          "rank": 6,
+          "name": "HD + b",
+          "rate": 3.9
+        },
+        {
+          "rank": 7,
+          "name": "HB",
+          "rate": 3.6
+        },
+        {
+          "rank": 8,
+          "name": "HD + a",
+          "rate": 2.7
+        },
+        {
+          "rank": 9,
+          "name": "HA + d",
+          "rate": 2.7
+        },
+        {
+          "rank": 10,
+          "name": "BD + h",
+          "rate": 1.8
+        },
+        {
+          "rank": 11,
+          "name": "HB + a",
+          "rate": 1.8
+        },
+        {
+          "rank": 12,
+          "name": "HB + s",
+          "rate": 1.5
+        },
+        {
+          "rank": 13,
+          "name": "HB + d",
+          "rate": 1.5
+        },
+        {
+          "rank": 14,
+          "name": "HB + c",
+          "rate": 1.5
+        },
+        {
+          "rank": 15,
+          "name": "AB + s",
+          "rate": 1.2
+        },
+        {
+          "rank": 16,
+          "name": "AS + h",
+          "rate": 1.2
+        }
+      ]
+    },
+    "同じチーム": {
+      "moves": [],
+      "usages": [
+        {
+          "rank": 1,
+          "name": "オニシズクモ",
+          "rate": null
+        },
+        {
+          "rank": 2,
+          "name": "ウルガモス",
+          "rate": null
+        },
+        {
+          "rank": 3,
+          "name": "ハッサム",
+          "rate": null
+        },
+        {
+          "rank": 4,
+          "name": "バサギリ",
+          "rate": null
+        },
+        {
+          "rank": 5,
+          "name": "ガブリアス",
+          "rate": null
+        },
+        {
+          "rank": 6,
+          "name": "カイロス",
+          "rate": null
+        },
+        {
+          "rank": 7,
+          "name": "カイリュー",
+          "rate": null
+        },
+        {
+          "rank": 8,
+          "name": "リザードン",
+          "rate": null
+        },
+        {
+          "rank": 9,
+          "name": "ヘラクロス",
+          "rate": null
+        },
+        {
+          "rank": 10,
+          "name": "アシレーヌ",
+          "rate": null
+        }
+      ]
+    }
+  },
+  "raw_counts": {
+    "move_items": 10,
+    "usage_items": 54
+  }
+}

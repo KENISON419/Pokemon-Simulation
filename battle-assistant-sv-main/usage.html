@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="ポケモンSV リアルタイム自動ダメージ計算サイト">
+    <meta property="og:title" content="使い方">
+    <meta property="og:site_name" content="ポケモンバトルアシスタントSV">
+    <meta property="og:description" content="自動ダメージ計算サイト for ポケモンSV">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://pbasv.cloudfree.jp/">
+    <meta property="og:image" content="https://pbasv.cloudfree.jp/img/logomark.png">
+    <meta property="twitter:card" content="summary">
+    <link rel="shortcut icon" href="img/logomark.png">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/usage.css">
+    <title>ポケモンバトルアシスタントSV</title>
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-left">
+            <a href="index.html"><img src="img/logomark.png" id="logo-mark" height="40px"></a>
+            <a href="index.html"><img src="img/logochar.png" id="logo-char" height="34px"></a>
+            <img src="img/SV_logo.png" id="SV-logo" height="40px">
+        </div>
+        <div class="header-right">
+            <a href="index.html">HOME</a>
+            <a href="manager.html" target="_blank">ポケモン管理</a>
+            <a href="usage.html">使い方</a>
+            <a href="https://twitter.com/ml7ddw0" target="_blank">お問い合わせ</a>
+            <a href="develop.html" target="_blank">開発</a>
+            <a href="https://twitter.com/ml7ddw0" target="_blank"><img src="img/twitter.png" width="34px"></a>
+        </div>
+    </div>
+    <div class="container">
+        <h1>使い方</h1>
+        <h2>こまめなバックアップを</h2>
+        <p>登録したポケモンの情報はブラウザに保存されており、<span class="red">ブラウザのCookieを削除すると登録情報も消えます</span>。</p>
+        <p>そのため、新しくポケモンを登録したときには、バックアップを保存しておくことをおすすめします。</p>
+        <p><a href="manager.html" target="_blank">ポケモン管理</a> 画面のヘッダー(上部)にある「バックアップ」をクリックするとダウンロードできます。</p>
+        <h2>自動ダメージ計算ツールの使い方</h2>
+        <div class="video">
+            <iframe width="960" height="540" src="https://www.youtube.com/embed/qFoe8Es_esY?si=XmCZ_lxvlxAsG5zN"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+        </div>
+        <h2>ポケモン管理ツールの使い方</h2>
+        <div class="video">
+            <iframe width="960" height="540" src="https://www.youtube.com/embed/y_OhgZAV89I?si=l7K3jANOWFTMblDW"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <h2>トラブルシュート</h2>
+        <h3>ゲーム画面が映らない</h3>
+        <p>1. キャプチャーボードがPCに接続されていることを確認してください。</p>
+        <p>2. カメラアクセスを許可していない場合は、ブラウザをリロードして許可してください。</p>
+        <p>3. OBS等の他のキャプチャツールを開いている場合は閉じてください。</p>
+        <br>
+        <h3>サイトの更新が反映されない</h3>
+        <p>ブラウザをリロードしてもサイトが更新されない場合があります。</p>
+        <p>ブラウザのキャッシュを削除すると解決しますが、<span>Cookieまで削除すると登録したポケモンが消えます</span>。</p>
+        <p>Google Chromeでキャッシュのみを削除する方法を以下に示します。</p>
+        <br>
+        <p>右上の設定ボタン >> 閲覧履歴を消去 >> Cookieと他のサイトデータの<span class="red">チェックを外して</span>削除</p>
+        <img src="img/delete_cash_1.png" height="440">
+        <img src="img/delete_cash_2.png" height="440">
+
+        <h2>対応ブラウザ</h2>
+        <p>確認済：Google Chrome, Microsoft Edge</p>
+        <p>非対応：Safari</p>
+    </div>
+    <div class="footer">
+        <div id="post">
+            <p>このサイトを共有</p>
+            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button"
+                data-text="ポケモン自動ダメージ計算 for SV" data-show-count="false">Tweet</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <div id="copyright">&copy; 2024 ポケモン自動ダメージ計算</div>
+    </div>
+</body>
+
+</html>
