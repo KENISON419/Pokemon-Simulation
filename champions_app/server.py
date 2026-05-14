@@ -2,11 +2,17 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 import json
 import sqlite3
+import sys
 from urllib.parse import urlparse
 from typing import Any, Dict
+
+# Allow running `python champions_app/server.py` from project root on Windows/macOS/Linux
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 from champions_ai import ChampionsAI, BattleState, PokemonState, Action
 
-ROOT = Path(__file__).resolve().parents[1]
 WEB = Path(__file__).resolve().parent / "web"
 DATA = Path(__file__).resolve().parent / "data"
 DB_PATH = DATA / "battles.db"
