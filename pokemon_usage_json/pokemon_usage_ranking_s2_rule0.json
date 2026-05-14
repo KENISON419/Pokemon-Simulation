@@ -1,0 +1,1713 @@
+{
+  "source_url": "https://champs.pokedb.tokyo/pokemon/list?season=2&rule=0",
+  "season": 2,
+  "rule": 0,
+  "updated_at": "2026/5/14 02:06",
+  "count": 213,
+  "ranking": [
+    {
+      "rank": 1,
+      "pokemon_key": "0445-00",
+      "display_name": "ガブリアス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0445-00?season=2&rule=0"
+    },
+    {
+      "rank": 2,
+      "pokemon_key": "1018-00",
+      "display_name": "ブリジュラス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/1018-00?season=2&rule=0"
+    },
+    {
+      "rank": 3,
+      "pokemon_key": "0730-00",
+      "display_name": "アシレーヌ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0730-00?season=2&rule=0"
+    },
+    {
+      "rank": 4,
+      "pokemon_key": "0006-00",
+      "display_name": "リザードン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0006-00?season=2&rule=0"
+    },
+    {
+      "rank": 5,
+      "pokemon_key": "0823-00",
+      "display_name": "アーマーガア",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0823-00?season=2&rule=0"
+    },
+    {
+      "rank": 6,
+      "pokemon_key": "0908-00",
+      "display_name": "マスカーニャ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0908-00?season=2&rule=0"
+    },
+    {
+      "rank": 7,
+      "pokemon_key": "0902-00",
+      "display_name": "イダイトウ (オス)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0902-00?season=2&rule=0"
+    },
+    {
+      "rank": 8,
+      "pokemon_key": "0450-00",
+      "display_name": "カバルドン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0450-00?season=2&rule=0"
+    },
+    {
+      "rank": 9,
+      "pokemon_key": "0149-00",
+      "display_name": "カイリュー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0149-00?season=2&rule=0"
+    },
+    {
+      "rank": 10,
+      "pokemon_key": "0094-00",
+      "display_name": "ゲンガー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0094-00?season=2&rule=0"
+    },
+    {
+      "rank": 11,
+      "pokemon_key": "0212-00",
+      "display_name": "ハッサム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0212-00?season=2&rule=0"
+    },
+    {
+      "rank": 12,
+      "pokemon_key": "0428-00",
+      "display_name": "ミミロップ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0428-00?season=2&rule=0"
+    },
+    {
+      "rank": 13,
+      "pokemon_key": "0681-00",
+      "display_name": "ギルガルド",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0681-00?season=2&rule=0"
+    },
+    {
+      "rank": 14,
+      "pokemon_key": "0970-00",
+      "display_name": "キラフロル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0970-00?season=2&rule=0"
+    },
+    {
+      "rank": 15,
+      "pokemon_key": "0778-00",
+      "display_name": "ミミッキュ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0778-00?season=2&rule=0"
+    },
+    {
+      "rank": 16,
+      "pokemon_key": "0448-00",
+      "display_name": "ルカリオ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0448-00?season=2&rule=0"
+    },
+    {
+      "rank": 17,
+      "pokemon_key": "0637-00",
+      "display_name": "ウルガモス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0637-00?season=2&rule=0"
+    },
+    {
+      "rank": 18,
+      "pokemon_key": "0130-00",
+      "display_name": "ギャラドス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0130-00?season=2&rule=0"
+    },
+    {
+      "rank": 19,
+      "pokemon_key": "0670-05",
+      "display_name": "フラエッテ:永遠",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0670-05?season=2&rule=0"
+    },
+    {
+      "rank": 20,
+      "pokemon_key": "0983-00",
+      "display_name": "ドドゲザン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0983-00?season=2&rule=0"
+    },
+    {
+      "rank": 21,
+      "pokemon_key": "0635-00",
+      "display_name": "サザンドラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0635-00?season=2&rule=0"
+    },
+    {
+      "rank": 22,
+      "pokemon_key": "0121-00",
+      "display_name": "スターミー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0121-00?season=2&rule=0"
+    },
+    {
+      "rank": 23,
+      "pokemon_key": "0197-00",
+      "display_name": "ブラッキー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0197-00?season=2&rule=0"
+    },
+    {
+      "rank": 24,
+      "pokemon_key": "0479-02",
+      "display_name": "ウォッシュロトム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0479-02?season=2&rule=0"
+    },
+    {
+      "rank": 25,
+      "pokemon_key": "0115-00",
+      "display_name": "ガルーラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0115-00?season=2&rule=0"
+    },
+    {
+      "rank": 26,
+      "pokemon_key": "0903-00",
+      "display_name": "オオニューラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0903-00?season=2&rule=0"
+    },
+    {
+      "rank": 27,
+      "pokemon_key": "0655-00",
+      "display_name": "マフォクシー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0655-00?season=2&rule=0"
+    },
+    {
+      "rank": 28,
+      "pokemon_key": "0003-00",
+      "display_name": "フシギバナ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0003-00?season=2&rule=0"
+    },
+    {
+      "rank": 29,
+      "pokemon_key": "0911-00",
+      "display_name": "ラウドボーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0911-00?season=2&rule=0"
+    },
+    {
+      "rank": 30,
+      "pokemon_key": "0658-00",
+      "display_name": "ゲッコウガ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0658-00?season=2&rule=0"
+    },
+    {
+      "rank": 31,
+      "pokemon_key": "0154-00",
+      "display_name": "メガニウム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0154-00?season=2&rule=0"
+    },
+    {
+      "rank": 32,
+      "pokemon_key": "0939-00",
+      "display_name": "ハラバリー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0939-00?season=2&rule=0"
+    },
+    {
+      "rank": 33,
+      "pokemon_key": "0248-00",
+      "display_name": "バンギラス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0248-00?season=2&rule=0"
+    },
+    {
+      "rank": 34,
+      "pokemon_key": "0036-00",
+      "display_name": "ピクシー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0036-00?season=2&rule=0"
+    },
+    {
+      "rank": 35,
+      "pokemon_key": "0700-00",
+      "display_name": "ニンフィア",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0700-00?season=2&rule=0"
+    },
+    {
+      "rank": 36,
+      "pokemon_key": "0503-01",
+      "display_name": "ダイケンキ (ヒスイ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0503-01?season=2&rule=0"
+    },
+    {
+      "rank": 37,
+      "pokemon_key": "0752-00",
+      "display_name": "オニシズクモ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0752-00?season=2&rule=0"
+    },
+    {
+      "rank": 38,
+      "pokemon_key": "0479-01",
+      "display_name": "ヒートロトム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0479-01?season=2&rule=0"
+    },
+    {
+      "rank": 39,
+      "pokemon_key": "0937-00",
+      "display_name": "ソウブレイズ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0937-00?season=2&rule=0"
+    },
+    {
+      "rank": 40,
+      "pokemon_key": "0956-00",
+      "display_name": "クエスパトラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0956-00?season=2&rule=0"
+    },
+    {
+      "rank": 41,
+      "pokemon_key": "0473-00",
+      "display_name": "マンムー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0473-00?season=2&rule=0"
+    },
+    {
+      "rank": 42,
+      "pokemon_key": "0887-00",
+      "display_name": "ドラパルト",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0887-00?season=2&rule=0"
+    },
+    {
+      "rank": 43,
+      "pokemon_key": "0009-00",
+      "display_name": "カメックス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0009-00?season=2&rule=0"
+    },
+    {
+      "rank": 44,
+      "pokemon_key": "0395-00",
+      "display_name": "エンペルト",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0395-00?season=2&rule=0"
+    },
+    {
+      "rank": 45,
+      "pokemon_key": "0748-00",
+      "display_name": "ドヒドイデ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0748-00?season=2&rule=0"
+    },
+    {
+      "rank": 46,
+      "pokemon_key": "0279-00",
+      "display_name": "ペリッパー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0279-00?season=2&rule=0"
+    },
+    {
+      "rank": 47,
+      "pokemon_key": "0143-00",
+      "display_name": "カビゴン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0143-00?season=2&rule=0"
+    },
+    {
+      "rank": 48,
+      "pokemon_key": "0478-00",
+      "display_name": "ユキメノコ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0478-00?season=2&rule=0"
+    },
+    {
+      "rank": 49,
+      "pokemon_key": "0584-00",
+      "display_name": "バイバニラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0584-00?season=2&rule=0"
+    },
+    {
+      "rank": 50,
+      "pokemon_key": "0475-00",
+      "display_name": "エルレイド",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0475-00?season=2&rule=0"
+    },
+    {
+      "rank": 51,
+      "pokemon_key": "0660-00",
+      "display_name": "ホルード",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0660-00?season=2&rule=0"
+    },
+    {
+      "rank": 52,
+      "pokemon_key": "0547-00",
+      "display_name": "エルフーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0547-00?season=2&rule=0"
+    },
+    {
+      "rank": 53,
+      "pokemon_key": "0952-00",
+      "display_name": "スコヴィラン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0952-00?season=2&rule=0"
+    },
+    {
+      "rank": 54,
+      "pokemon_key": "0282-00",
+      "display_name": "サーナイト",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0282-00?season=2&rule=0"
+    },
+    {
+      "rank": 55,
+      "pokemon_key": "0227-00",
+      "display_name": "エアームド",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0227-00?season=2&rule=0"
+    },
+    {
+      "rank": 56,
+      "pokemon_key": "0571-01",
+      "display_name": "ゾロアーク (ヒスイ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0571-01?season=2&rule=0"
+    },
+    {
+      "rank": 57,
+      "pokemon_key": "0038-01",
+      "display_name": "キュウコン (アローラ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0038-01?season=2&rule=0"
+    },
+    {
+      "rank": 58,
+      "pokemon_key": "0900-00",
+      "display_name": "バサギリ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0900-00?season=2&rule=0"
+    },
+    {
+      "rank": 59,
+      "pokemon_key": "0350-00",
+      "display_name": "ミロカロス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0350-00?season=2&rule=0"
+    },
+    {
+      "rank": 60,
+      "pokemon_key": "0199-01",
+      "display_name": "ヤドキング (ガラル)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0199-01?season=2&rule=0"
+    },
+    {
+      "rank": 61,
+      "pokemon_key": "0184-00",
+      "display_name": "マリルリ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0184-00?season=2&rule=0"
+    },
+    {
+      "rank": 62,
+      "pokemon_key": "0214-00",
+      "display_name": "ヘラクロス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0214-00?season=2&rule=0"
+    },
+    {
+      "rank": 63,
+      "pokemon_key": "0530-00",
+      "display_name": "ドリュウズ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0530-00?season=2&rule=0"
+    },
+    {
+      "rank": 64,
+      "pokemon_key": "0706-01",
+      "display_name": "ヌメルゴン (ヒスイ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0706-01?season=2&rule=0"
+    },
+    {
+      "rank": 65,
+      "pokemon_key": "0727-00",
+      "display_name": "ガオガエン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0727-00?season=2&rule=0"
+    },
+    {
+      "rank": 66,
+      "pokemon_key": "0132-00",
+      "display_name": "メタモン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0132-00?season=2&rule=0"
+    },
+    {
+      "rank": 67,
+      "pokemon_key": "0733-00",
+      "display_name": "ドデカバシ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0733-00?season=2&rule=0"
+    },
+    {
+      "rank": 68,
+      "pokemon_key": "0497-00",
+      "display_name": "ジャローダ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0497-00?season=2&rule=0"
+    },
+    {
+      "rank": 69,
+      "pokemon_key": "0071-00",
+      "display_name": "ウツボット",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0071-00?season=2&rule=0"
+    },
+    {
+      "rank": 70,
+      "pokemon_key": "0858-00",
+      "display_name": "ブリムオン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0858-00?season=2&rule=0"
+    },
+    {
+      "rank": 71,
+      "pokemon_key": "0959-00",
+      "display_name": "デカヌチャン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0959-00?season=2&rule=0"
+    },
+    {
+      "rank": 72,
+      "pokemon_key": "0354-00",
+      "display_name": "ジュペッタ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0354-00?season=2&rule=0"
+    },
+    {
+      "rank": 73,
+      "pokemon_key": "0534-00",
+      "display_name": "ローブシン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0534-00?season=2&rule=0"
+    },
+    {
+      "rank": 74,
+      "pokemon_key": "0302-00",
+      "display_name": "ヤミラミ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0302-00?season=2&rule=0"
+    },
+    {
+      "rank": 75,
+      "pokemon_key": "0695-00",
+      "display_name": "エレザード",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0695-00?season=2&rule=0"
+    },
+    {
+      "rank": 76,
+      "pokemon_key": "0080-00",
+      "display_name": "ヤドラン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0080-00?season=2&rule=0"
+    },
+    {
+      "rank": 77,
+      "pokemon_key": "0855-00",
+      "display_name": "ポットデス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0855-00?season=2&rule=0"
+    },
+    {
+      "rank": 78,
+      "pokemon_key": "0059-01",
+      "display_name": "ウインディ (ヒスイ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0059-01?season=2&rule=0"
+    },
+    {
+      "rank": 79,
+      "pokemon_key": "0936-00",
+      "display_name": "グレンアルマ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0936-00?season=2&rule=0"
+    },
+    {
+      "rank": 80,
+      "pokemon_key": "0609-00",
+      "display_name": "シャンデラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0609-00?season=2&rule=0"
+    },
+    {
+      "rank": 81,
+      "pokemon_key": "1013-00",
+      "display_name": "ヤバソチャ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/1013-00?season=2&rule=0"
+    },
+    {
+      "rank": 82,
+      "pokemon_key": "0142-00",
+      "display_name": "プテラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0142-00?season=2&rule=0"
+    },
+    {
+      "rank": 83,
+      "pokemon_key": "0925-00",
+      "display_name": "イッカネズミ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0925-00?season=2&rule=0"
+    },
+    {
+      "rank": 84,
+      "pokemon_key": "0196-00",
+      "display_name": "エーフィ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0196-00?season=2&rule=0"
+    },
+    {
+      "rank": 85,
+      "pokemon_key": "0306-00",
+      "display_name": "ボスゴドラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0306-00?season=2&rule=0"
+    },
+    {
+      "rank": 86,
+      "pokemon_key": "0015-00",
+      "display_name": "スピアー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0015-00?season=2&rule=0"
+    },
+    {
+      "rank": 87,
+      "pokemon_key": "0134-00",
+      "display_name": "シャワーズ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0134-00?season=2&rule=0"
+    },
+    {
+      "rank": 88,
+      "pokemon_key": "0914-00",
+      "display_name": "ウェーニバル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0914-00?season=2&rule=0"
+    },
+    {
+      "rank": 89,
+      "pokemon_key": "0968-00",
+      "display_name": "ミミズズ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0968-00?season=2&rule=0"
+    },
+    {
+      "rank": 90,
+      "pokemon_key": "0319-00",
+      "display_name": "サメハダー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0319-00?season=2&rule=0"
+    },
+    {
+      "rank": 91,
+      "pokemon_key": "0701-00",
+      "display_name": "ルチャブル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0701-00?season=2&rule=0"
+    },
+    {
+      "rank": 92,
+      "pokemon_key": "0392-00",
+      "display_name": "ゴウカザル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0392-00?season=2&rule=0"
+    },
+    {
+      "rank": 93,
+      "pokemon_key": "0127-00",
+      "display_name": "カイロス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0127-00?season=2&rule=0"
+    },
+    {
+      "rank": 94,
+      "pokemon_key": "0080-02",
+      "display_name": "ヤドラン (ガラル)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0080-02?season=2&rule=0"
+    },
+    {
+      "rank": 95,
+      "pokemon_key": "0666-18",
+      "display_name": "ビビヨン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0666-18?season=2&rule=0"
+    },
+    {
+      "rank": 96,
+      "pokemon_key": "0160-00",
+      "display_name": "オーダイル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0160-00?season=2&rule=0"
+    },
+    {
+      "rank": 97,
+      "pokemon_key": "0652-00",
+      "display_name": "ブリガロン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0652-00?season=2&rule=0"
+    },
+    {
+      "rank": 98,
+      "pokemon_key": "0358-00",
+      "display_name": "チリーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0358-00?season=2&rule=0"
+    },
+    {
+      "rank": 99,
+      "pokemon_key": "0740-00",
+      "display_name": "ケケンカニ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0740-00?season=2&rule=0"
+    },
+    {
+      "rank": 100,
+      "pokemon_key": "0964-00",
+      "display_name": "イルカマン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0964-00?season=2&rule=0"
+    },
+    {
+      "rank": 101,
+      "pokemon_key": "0059-00",
+      "display_name": "ウインディ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0059-00?season=2&rule=0"
+    },
+    {
+      "rank": 102,
+      "pokemon_key": "0065-00",
+      "display_name": "フーディン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0065-00?season=2&rule=0"
+    },
+    {
+      "rank": 103,
+      "pokemon_key": "0460-00",
+      "display_name": "ユキノオー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0460-00?season=2&rule=0"
+    },
+    {
+      "rank": 104,
+      "pokemon_key": "0724-01",
+      "display_name": "ジュナイパー (ヒスイ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0724-01?season=2&rule=0"
+    },
+    {
+      "rank": 105,
+      "pokemon_key": "0663-00",
+      "display_name": "ファイアロー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0663-00?season=2&rule=0"
+    },
+    {
+      "rank": 106,
+      "pokemon_key": "0902-01",
+      "display_name": "イダイトウ (メス)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0902-01?season=2&rule=0"
+    },
+    {
+      "rank": 107,
+      "pokemon_key": "0157-01",
+      "display_name": "バクフーン (ヒスイ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0157-01?season=2&rule=0"
+    },
+    {
+      "rank": 108,
+      "pokemon_key": "0758-00",
+      "display_name": "エンニュート",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0758-00?season=2&rule=0"
+    },
+    {
+      "rank": 109,
+      "pokemon_key": "0308-00",
+      "display_name": "チャーレム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0308-00?season=2&rule=0"
+    },
+    {
+      "rank": 110,
+      "pokemon_key": "0461-00",
+      "display_name": "マニューラ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0461-00?season=2&rule=0"
+    },
+    {
+      "rank": 111,
+      "pokemon_key": "0181-00",
+      "display_name": "デンリュウ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0181-00?season=2&rule=0"
+    },
+    {
+      "rank": 112,
+      "pokemon_key": "0472-00",
+      "display_name": "グライオン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0472-00?season=2&rule=0"
+    },
+    {
+      "rank": 113,
+      "pokemon_key": "0745-02",
+      "display_name": "ルガルガン (たそがれ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0745-02?season=2&rule=0"
+    },
+    {
+      "rank": 114,
+      "pokemon_key": "0018-00",
+      "display_name": "ピジョット",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0018-00?season=2&rule=0"
+    },
+    {
+      "rank": 115,
+      "pokemon_key": "0135-00",
+      "display_name": "サンダース",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0135-00?season=2&rule=0"
+    },
+    {
+      "rank": 116,
+      "pokemon_key": "0750-00",
+      "display_name": "バンバドロ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0750-00?season=2&rule=0"
+    },
+    {
+      "rank": 117,
+      "pokemon_key": "0310-00",
+      "display_name": "ライボルト",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0310-00?season=2&rule=0"
+    },
+    {
+      "rank": 118,
+      "pokemon_key": "0068-00",
+      "display_name": "カイリキー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0068-00?season=2&rule=0"
+    },
+    {
+      "rank": 119,
+      "pokemon_key": "0334-00",
+      "display_name": "チルタリス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0334-00?season=2&rule=0"
+    },
+    {
+      "rank": 120,
+      "pokemon_key": "0471-00",
+      "display_name": "グレイシア",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0471-00?season=2&rule=0"
+    },
+    {
+      "rank": 121,
+      "pokemon_key": "0553-00",
+      "display_name": "ワルビアル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0553-00?season=2&rule=0"
+    },
+    {
+      "rank": 122,
+      "pokemon_key": "0128-02",
+      "display_name": "ケンタロス:炎",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0128-02?season=2&rule=0"
+    },
+    {
+      "rank": 123,
+      "pokemon_key": "0934-00",
+      "display_name": "キョジオーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0934-00?season=2&rule=0"
+    },
+    {
+      "rank": 124,
+      "pokemon_key": "0389-00",
+      "display_name": "ドダイトス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0389-00?season=2&rule=0"
+    },
+    {
+      "rank": 125,
+      "pokemon_key": "0867-00",
+      "display_name": "デスバーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0867-00?season=2&rule=0"
+    },
+    {
+      "rank": 126,
+      "pokemon_key": "0205-00",
+      "display_name": "フォレトス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0205-00?season=2&rule=0"
+    },
+    {
+      "rank": 127,
+      "pokemon_key": "0784-00",
+      "display_name": "ジャラランガ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0784-00?season=2&rule=0"
+    },
+    {
+      "rank": 128,
+      "pokemon_key": "0500-00",
+      "display_name": "エンブオー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0500-00?season=2&rule=0"
+    },
+    {
+      "rank": 129,
+      "pokemon_key": "0168-00",
+      "display_name": "アリアドス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0168-00?season=2&rule=0"
+    },
+    {
+      "rank": 130,
+      "pokemon_key": "0479-05",
+      "display_name": "カットロトム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0479-05?season=2&rule=0"
+    },
+    {
+      "rank": 131,
+      "pokemon_key": "0685-00",
+      "display_name": "ペロリーム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0685-00?season=2&rule=0"
+    },
+    {
+      "rank": 132,
+      "pokemon_key": "0208-00",
+      "display_name": "ハガネール",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0208-00?season=2&rule=0"
+    },
+    {
+      "rank": 133,
+      "pokemon_key": "0359-00",
+      "display_name": "アブソル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0359-00?season=2&rule=0"
+    },
+    {
+      "rank": 134,
+      "pokemon_key": "0563-00",
+      "display_name": "デスカーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0563-00?season=2&rule=0"
+    },
+    {
+      "rank": 135,
+      "pokemon_key": "0763-00",
+      "display_name": "アマージョ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0763-00?season=2&rule=0"
+    },
+    {
+      "rank": 136,
+      "pokemon_key": "0715-00",
+      "display_name": "オンバーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0715-00?season=2&rule=0"
+    },
+    {
+      "rank": 137,
+      "pokemon_key": "0324-00",
+      "display_name": "コータス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0324-00?season=2&rule=0"
+    },
+    {
+      "rank": 138,
+      "pokemon_key": "0186-00",
+      "display_name": "ニョロトノ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0186-00?season=2&rule=0"
+    },
+    {
+      "rank": 139,
+      "pokemon_key": "0025-00",
+      "display_name": "ピカチュウ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0025-00?season=2&rule=0"
+    },
+    {
+      "rank": 140,
+      "pokemon_key": "0571-00",
+      "display_name": "ゾロアーク",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0571-00?season=2&rule=0"
+    },
+    {
+      "rank": 141,
+      "pokemon_key": "0877-00",
+      "display_name": "モルペコ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0877-00?season=2&rule=0"
+    },
+    {
+      "rank": 142,
+      "pokemon_key": "0442-00",
+      "display_name": "ミカルゲ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0442-00?season=2&rule=0"
+    },
+    {
+      "rank": 143,
+      "pokemon_key": "0199-00",
+      "display_name": "ヤドキング",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0199-00?season=2&rule=0"
+    },
+    {
+      "rank": 144,
+      "pokemon_key": "0780-00",
+      "display_name": "ジジーロン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0780-00?season=2&rule=0"
+    },
+    {
+      "rank": 145,
+      "pokemon_key": "0693-00",
+      "display_name": "ブロスター",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0693-00?season=2&rule=0"
+    },
+    {
+      "rank": 146,
+      "pokemon_key": "0362-00",
+      "display_name": "オニゴーリ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0362-00?season=2&rule=0"
+    },
+    {
+      "rank": 147,
+      "pokemon_key": "0707-00",
+      "display_name": "クレッフィ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0707-00?season=2&rule=0"
+    },
+    {
+      "rank": 148,
+      "pokemon_key": "0981-00",
+      "display_name": "リキキリン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0981-00?season=2&rule=0"
+    },
+    {
+      "rank": 149,
+      "pokemon_key": "0623-00",
+      "display_name": "ゴルーグ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0623-00?season=2&rule=0"
+    },
+    {
+      "rank": 150,
+      "pokemon_key": "1019-00",
+      "display_name": "カミツオロチ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/1019-00?season=2&rule=0"
+    },
+    {
+      "rank": 151,
+      "pokemon_key": "0407-00",
+      "display_name": "ロズレイド",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0407-00?season=2&rule=0"
+    },
+    {
+      "rank": 152,
+      "pokemon_key": "0706-00",
+      "display_name": "ヌメルゴン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0706-00?season=2&rule=0"
+    },
+    {
+      "rank": 153,
+      "pokemon_key": "0697-00",
+      "display_name": "ガチゴラス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0697-00?season=2&rule=0"
+    },
+    {
+      "rank": 154,
+      "pokemon_key": "0869-00",
+      "display_name": "マホイップ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0869-00?season=2&rule=0"
+    },
+    {
+      "rank": 155,
+      "pokemon_key": "0454-00",
+      "display_name": "ドクロッグ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0454-00?season=2&rule=0"
+    },
+    {
+      "rank": 156,
+      "pokemon_key": "0579-00",
+      "display_name": "ランクルス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0579-00?season=2&rule=0"
+    },
+    {
+      "rank": 157,
+      "pokemon_key": "0678-00",
+      "display_name": "ニャオニクス (オス)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0678-00?season=2&rule=0"
+    },
+    {
+      "rank": 158,
+      "pokemon_key": "0229-00",
+      "display_name": "ヘルガー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0229-00?season=2&rule=0"
+    },
+    {
+      "rank": 159,
+      "pokemon_key": "0128-03",
+      "display_name": "ケンタロス:水",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0128-03?season=2&rule=0"
+    },
+    {
+      "rank": 160,
+      "pokemon_key": "0713-00",
+      "display_name": "クレベース",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0713-00?season=2&rule=0"
+    },
+    {
+      "rank": 161,
+      "pokemon_key": "0464-00",
+      "display_name": "ドサイドン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0464-00?season=2&rule=0"
+    },
+    {
+      "rank": 162,
+      "pokemon_key": "0844-00",
+      "display_name": "サダイジャ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0844-00?season=2&rule=0"
+    },
+    {
+      "rank": 163,
+      "pokemon_key": "0699-00",
+      "display_name": "アマルルガ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0699-00?season=2&rule=0"
+    },
+    {
+      "rank": 164,
+      "pokemon_key": "0479-03",
+      "display_name": "フロストロトム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0479-03?season=2&rule=0"
+    },
+    {
+      "rank": 165,
+      "pokemon_key": "0136-00",
+      "display_name": "ブースター",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0136-00?season=2&rule=0"
+    },
+    {
+      "rank": 166,
+      "pokemon_key": "0713-01",
+      "display_name": "クレベース (ヒスイ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0713-01?season=2&rule=0"
+    },
+    {
+      "rank": 167,
+      "pokemon_key": "0470-00",
+      "display_name": "リーフィア",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0470-00?season=2&rule=0"
+    },
+    {
+      "rank": 168,
+      "pokemon_key": "0671-00",
+      "display_name": "フラージェス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0671-00?season=2&rule=0"
+    },
+    {
+      "rank": 169,
+      "pokemon_key": "0038-00",
+      "display_name": "キュウコン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0038-00?season=2&rule=0"
+    },
+    {
+      "rank": 170,
+      "pokemon_key": "0405-00",
+      "display_name": "レントラー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0405-00?season=2&rule=0"
+    },
+    {
+      "rank": 171,
+      "pokemon_key": "0323-00",
+      "display_name": "バクーダ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0323-00?season=2&rule=0"
+    },
+    {
+      "rank": 172,
+      "pokemon_key": "0157-00",
+      "display_name": "バクフーン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0157-00?season=2&rule=0"
+    },
+    {
+      "rank": 173,
+      "pokemon_key": "0709-00",
+      "display_name": "オーロット",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0709-00?season=2&rule=0"
+    },
+    {
+      "rank": 174,
+      "pokemon_key": "0675-00",
+      "display_name": "ゴロンダ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0675-00?season=2&rule=0"
+    },
+    {
+      "rank": 175,
+      "pokemon_key": "0411-00",
+      "display_name": "トリデプス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0411-00?season=2&rule=0"
+    },
+    {
+      "rank": 176,
+      "pokemon_key": "0026-00",
+      "display_name": "ライチュウ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0026-00?season=2&rule=0"
+    },
+    {
+      "rank": 177,
+      "pokemon_key": "0618-00",
+      "display_name": "マッギョ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0618-00?season=2&rule=0"
+    },
+    {
+      "rank": 178,
+      "pokemon_key": "0026-01",
+      "display_name": "ライチュウ (アローラ)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0026-01?season=2&rule=0"
+    },
+    {
+      "rank": 179,
+      "pokemon_key": "0587-00",
+      "display_name": "エモンガ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0587-00?season=2&rule=0"
+    },
+    {
+      "rank": 180,
+      "pokemon_key": "0409-00",
+      "display_name": "ラムパルド",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0409-00?season=2&rule=0"
+    },
+    {
+      "rank": 181,
+      "pokemon_key": "0531-00",
+      "display_name": "タブンネ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0531-00?season=2&rule=0"
+    },
+    {
+      "rank": 182,
+      "pokemon_key": "0702-00",
+      "display_name": "デデンネ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0702-00?season=2&rule=0"
+    },
+    {
+      "rank": 183,
+      "pokemon_key": "0024-00",
+      "display_name": "アーボック",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0024-00?season=2&rule=0"
+    },
+    {
+      "rank": 184,
+      "pokemon_key": "0711-03",
+      "display_name": "パンプジン (とくだい)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0711-03?season=2&rule=0"
+    },
+    {
+      "rank": 185,
+      "pokemon_key": "0724-00",
+      "display_name": "ジュナイパー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0724-00?season=2&rule=0"
+    },
+    {
+      "rank": 186,
+      "pokemon_key": "0899-00",
+      "display_name": "アヤシシ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0899-00?season=2&rule=0"
+    },
+    {
+      "rank": 187,
+      "pokemon_key": "0676-00",
+      "display_name": "トリミアン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0676-00?season=2&rule=0"
+    },
+    {
+      "rank": 188,
+      "pokemon_key": "0678-01",
+      "display_name": "ニャオニクス (メス)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0678-01?season=2&rule=0"
+    },
+    {
+      "rank": 189,
+      "pokemon_key": "0842-00",
+      "display_name": "タルップル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0842-00?season=2&rule=0"
+    },
+    {
+      "rank": 190,
+      "pokemon_key": "0745-00",
+      "display_name": "ルガルガン (まひる)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0745-00?season=2&rule=0"
+    },
+    {
+      "rank": 191,
+      "pokemon_key": "0614-00",
+      "display_name": "ツンベアー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0614-00?season=2&rule=0"
+    },
+    {
+      "rank": 192,
+      "pokemon_key": "0866-00",
+      "display_name": "バリコオル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0866-00?season=2&rule=0"
+    },
+    {
+      "rank": 193,
+      "pokemon_key": "0510-00",
+      "display_name": "レパルダス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0510-00?season=2&rule=0"
+    },
+    {
+      "rank": 194,
+      "pokemon_key": "0841-00",
+      "display_name": "アップリュー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0841-00?season=2&rule=0"
+    },
+    {
+      "rank": 195,
+      "pokemon_key": "0479-04",
+      "display_name": "スピンロトム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0479-04?season=2&rule=0"
+    },
+    {
+      "rank": 196,
+      "pokemon_key": "0618-01",
+      "display_name": "マッギョ (ガラル)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0618-01?season=2&rule=0"
+    },
+    {
+      "rank": 197,
+      "pokemon_key": "0745-01",
+      "display_name": "ルガルガン (まよなか)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0745-01?season=2&rule=0"
+    },
+    {
+      "rank": 198,
+      "pokemon_key": "0569-00",
+      "display_name": "ダストダス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0569-00?season=2&rule=0"
+    },
+    {
+      "rank": 199,
+      "pokemon_key": "0765-00",
+      "display_name": "ヤレユータン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0765-00?season=2&rule=0"
+    },
+    {
+      "rank": 200,
+      "pokemon_key": "0512-00",
+      "display_name": "ヤナッキー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0512-00?season=2&rule=0"
+    },
+    {
+      "rank": 201,
+      "pokemon_key": "0516-00",
+      "display_name": "ヒヤッキー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0516-00?season=2&rule=0"
+    },
+    {
+      "rank": 202,
+      "pokemon_key": "0766-00",
+      "display_name": "ナゲツケサル",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0766-00?season=2&rule=0"
+    },
+    {
+      "rank": 203,
+      "pokemon_key": "0128-00",
+      "display_name": "ケンタロス",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0128-00?season=2&rule=0"
+    },
+    {
+      "rank": 204,
+      "pokemon_key": "0503-00",
+      "display_name": "ダイケンキ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0503-00?season=2&rule=0"
+    },
+    {
+      "rank": 205,
+      "pokemon_key": "0683-00",
+      "display_name": "フレフワン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0683-00?season=2&rule=0"
+    },
+    {
+      "rank": 206,
+      "pokemon_key": "0505-00",
+      "display_name": "ミルホッグ",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0505-00?season=2&rule=0"
+    },
+    {
+      "rank": 207,
+      "pokemon_key": "0711-00",
+      "display_name": "パンプジン (ふつう)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0711-00?season=2&rule=0"
+    },
+    {
+      "rank": 208,
+      "pokemon_key": "0351-00",
+      "display_name": "ポワルン",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0351-00?season=2&rule=0"
+    },
+    {
+      "rank": 209,
+      "pokemon_key": "0514-00",
+      "display_name": "バオッキー",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0514-00?season=2&rule=0"
+    },
+    {
+      "rank": 210,
+      "pokemon_key": "0711-01",
+      "display_name": "パンプジン (ちいさい)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0711-01?season=2&rule=0"
+    },
+    {
+      "rank": 211,
+      "pokemon_key": "0479-00",
+      "display_name": "ロトム",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0479-00?season=2&rule=0"
+    },
+    {
+      "rank": 212,
+      "pokemon_key": "0711-02",
+      "display_name": "パンプジン (おおきい)",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0711-02?season=2&rule=0"
+    },
+    {
+      "rank": 213,
+      "pokemon_key": "0128-01",
+      "display_name": "ケンタロス:格",
+      "season": 2,
+      "rule": 0,
+      "url": "https://champs.pokedb.tokyo/pokemon/show/0128-01?season=2&rule=0"
+    }
+  ]
+}
