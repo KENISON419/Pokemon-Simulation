@@ -50,11 +50,34 @@ def to_state(payload: Dict[str, Any]) -> BattleState:
 
 
 def _validate_state(st: BattleState) -> str:
-    if len(st.my_party) != 6 or len(st.opp_party) != 6: return "my_party と opp_party は6匹必要です"
+    if len(st.my_party) != 6: return "my_party は6匹必要です"
     if len(st.selected3) != 3: return "selected3 は3匹必要です"
     if not st.my_active or not st.opp_active: return "my_active / opp_active は必須です"
     return ""
 
+
+
+def top_pokemon_options(limit: int = 50):
+    rows = []
+    for name, usage in AI.usage_by_name.items():
+        try:
+            top = usage.get("sections", {}).get("技", {}).get("moves", [])
+            score = sum(m.get("rate", 0) for m in top[:3])
+        except Exception:
+            score = 0
+        rows.append((name, score))
+    rows.sort(key=lambda x: x[1], reverse=True)
+    return [r[0] for r in rows[:limit]]
+
+def usage_options_for(name: str):
+    u = AI.usage_by_name.get(name, {})
+    sec = u.get("sections", {})
+    return {
+        "moves": [m.get("name") for m in sec.get("技", {}).get("moves", [])[:20] if m.get("name")],
+        "items": [m.get("name") for m in sec.get("持ち物", {}).get("items", [])[:20] if m.get("name")],
+        "natures": [m.get("name") for m in sec.get("能力補正", {}).get("natures", [])[:20] if m.get("name")],
+        "spreads": [m.get("name") for m in sec.get("能力ポイント", {}).get("spreads", [])[:20] if m.get("name")],
+    }
 
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
@@ -68,6 +91,12 @@ class Handler(SimpleHTTPRequestHandler):
         p = urlparse(self.path).path
         if p == "/api/model_stats":
             return self._json(200, {"history_actions": len(AI.outcome_stats), "search_depth": AI.search_depth, "rollout_count": AI.rollout_count})
+        if p == "/api/pokemon_options":
+            return self._json(200, {"options": top_pokemon_options(120)})
+        if p.startswith("/api/usage_options"):
+            q = self.path.split("name=",1)
+            name = q[1] if len(q)>1 else ""
+            return self._json(200, usage_options_for(name))
         if p == "/api/history":
             con = sqlite3.connect(DB_PATH)
             rows = con.execute("SELECT session_id,event_type,turn,payload,created_at FROM battle_events ORDER BY id DESC LIMIT 100").fetchall()

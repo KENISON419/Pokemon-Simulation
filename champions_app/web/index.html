@@ -1,10 +1,7 @@
-<!doctype html><html lang='ja'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Champions Battle Assistant</title><link rel='stylesheet' href='style.css'></head>
-<body><h1>Pokemon Champions Battle Assistant</h1>
-<p class='help'>使い方: ①自分6匹保存 → ②相手6匹保存 → ③選出3匹保存 → ④ターン入力してAI提案 → ⑤ターン保存 → ⑥勝敗を入力して対戦結果送信</p>
-<section><h2>1. 自分の6匹登録</h2><div id='my' class='grid6'></div><button onclick='saveMy()'>自分パーティ保存</button></section>
-<section><h2>2. 相手の6匹登録</h2><div id='opp' class='grid6'></div><button onclick='saveOpp()'>相手パーティ保存</button></section>
-<section><h2>3. 選出3匹</h2><div id='sel' class='grid3'></div><button onclick='saveSel()'>選出保存</button></section>
-<section><h2>4. ターン入力</h2><div class='row'><input id='myActive' placeholder='自分active'><input id='oppActive' placeholder='相手active'><input id='weather' placeholder='天候'><input id='field' placeholder='フィールド'></div><div class='actions'><button onclick='suggest()'>AI提案</button><button onclick='applyTopSuggestion()'>1位候補を採用</button><button onclick='saveTurn()'>ターン保存</button></div><pre id='ai'></pre></section>
-<section><h2>5. 対戦結果送信</h2><label>勝ち負けを入力:</label><select id='result'><option value='win'>勝ち</option><option value='lose'>負け</option></select><button onclick='saveResult()'>対戦結果送信</button><button onclick='resetBattle()'>対戦終了: 自分パーティ以外リセット</button></section>
-<section><h2>AI/DB 情報</h2><button onclick='loadStats()'>AI統計取得</button><button onclick='loadHistory()'>履歴取得</button><pre id='meta'></pre></section><section><h2>ログ</h2><pre id='log'></pre></section>
+<!doctype html><html lang='ja'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Champions Assistant</title><link rel='stylesheet' href='style.css'></head><body>
+<h1>Pokemon Champions Assistant</h1>
+<section><h2>自分のパーティ登録(6匹)</h2><div id='myParty' class='grid6'></div></section>
+<section><h2>相手のパーティ登録(6匹・名前のみ可)</h2><div id='oppParty' class='grid6'></div></section>
+<section><h2>対戦状況</h2><div class='split'><div><h3>自分の選出3匹</h3><div id='myField' class='grid3'></div></div><div><h3>相手の選出3匹(未確定可)</h3><div id='oppField' class='grid3'></div></div></div>
+<div class='row'><input id='weather' placeholder='天候'><input id='field' placeholder='フィールド・場状態'></div><button onclick='runSuggest()'>AI予測</button><pre id='ai'></pre></section>
 <script src='app.js'></script></body></html>

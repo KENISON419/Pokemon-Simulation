@@ -20,6 +20,8 @@ class PokemonState:
     moves: List[str] = field(default_factory=list)
     revealed_moves: List[str] = field(default_factory=list)
     mega_used: bool = False
+    evs: Dict[str, int] = field(default_factory=lambda: {"H":0,"A":0,"B":0,"C":0,"D":0,"S":0})
+    nature: str = ""
 
 
 @dataclass
