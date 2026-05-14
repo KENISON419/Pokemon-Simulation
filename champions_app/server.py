@@ -77,6 +77,8 @@ def load_ranking_names(limit: int = 120):
             obj = json.loads(ranking_file.read_text(encoding="utf-8"))
             arr = obj.get("ranking", [])
             if arr:
+                if isinstance(arr[0], dict):
+                    return [x.get("display_name","") for x in arr[:limit] if x.get("display_name")]
                 return arr[:limit]
         except Exception:
             pass
