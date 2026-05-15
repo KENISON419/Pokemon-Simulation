@@ -21,6 +21,26 @@ SESSIONS: Dict[str, Dict[str, Any]] = {}
 AI = ChampionsAI(ROOT)
 
 
+def build_name_key_map():
+    pm = json.loads((ROOT / "pokemon_usage_json" / "pokemon_master.json").read_text(encoding="utf-8"))
+    m = {}
+    for row in pm.get("pokemons", []):
+        n = row.get("display_name", "")
+        k = row.get("pokemon_key", "")
+        if n and k:
+            m[n] = k
+    return m
+
+NAME_KEY_MAP = build_name_key_map()
+
+def usage_file_by_name(name: str):
+    key = NAME_KEY_MAP.get(name)
+    if not key:
+        return None
+    fp = ROOT / "pokemon_usage_json" / "season2" / "rule0" / f"{key}_usage_season2_rule0.json"
+    return fp if fp.exists() else None
+
+
 def init_db() -> None:
     con = sqlite3.connect(DB_PATH)
     cur = con.cursor()
@@ -85,22 +105,26 @@ def load_ranking_names(limit: int = 120):
     return top_pokemon_options(limit)
 
 def usage_options_for(name: str):
-    u = AI.usage_by_name.get(name, {})
+    fp = usage_file_by_name(name)
+    if fp is None:
+        # fallback to AI cache by display_name
+        u = AI.usage_by_name.get(name, {})
+    else:
+        u = json.loads(fp.read_text(encoding="utf-8"))
     sec = u.get("sections", {})
-    opts = {
-        "moves": [m.get("name") for m in sec.get("技", {}).get("moves", [])[:20] if m.get("name")],
-        "items": [m.get("name") for m in sec.get("持ち物", {}).get("items", [])[:20] if m.get("name")],
-        "natures": [m.get("name") for m in sec.get("能力補正", {}).get("natures", [])[:20] if m.get("name")],
-        "spreads": [m.get("name") for m in sec.get("能力ポイント", {}).get("spreads", [])[:20] if m.get("name")],
-    }
+    moves = [m.get("name") for m in sec.get("技", {}).get("moves", []) if m.get("name")]
+    items = [m.get("name") for m in sec.get("持ち物", {}).get("items", []) if m.get("name")]
+    natures = [m.get("name") for m in sec.get("能力補正", {}).get("natures", []) if m.get("name")]
+    spreads = [m.get("name") for m in sec.get("能力ポイント", {}).get("spreads", []) if m.get("name")]
+    opts = {"moves": moves[:30], "items": items[:30], "natures": natures[:30], "spreads": spreads[:30]}
     opts["default"] = {
-        "move1": opts["moves"][0] if opts["moves"] else "",
-        "move2": opts["moves"][1] if len(opts["moves"])>1 else "",
-        "move3": opts["moves"][2] if len(opts["moves"])>2 else "",
-        "move4": opts["moves"][3] if len(opts["moves"])>3 else "",
-        "item": opts["items"][0] if opts["items"] else "",
-        "nature": opts["natures"][0] if opts["natures"] else "",
-        "spread": opts["spreads"][0] if opts["spreads"] else "",
+        "move1": moves[0] if len(moves)>0 else "",
+        "move2": moves[1] if len(moves)>1 else "",
+        "move3": moves[2] if len(moves)>2 else "",
+        "move4": moves[3] if len(moves)>3 else "",
+        "item": items[0] if items else "",
+        "nature": natures[0] if natures else "",
+        "spread": spreads[0] if spreads else "",
     }
     return opts
 
