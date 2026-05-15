@@ -1,0 +1,9 @@
+{
+  "pokemon": {
+    "ガブリアス": {"base_stats": {"H": 108, "A": 130, "B": 95, "C": 80, "D": 85, "S": 102}, "ability": "さめはだ", "mega": {"enabled": true, "name": "メガガブリアス", "ability": "すなのちから", "base_stats": {"H": 108, "A": 170, "B": 115, "C": 120, "D": 95, "S": 92}}},
+    "リザードン": {"base_stats": {"H": 78, "A": 84, "B": 78, "C": 109, "D": 85, "S": 100}, "ability": "もうか", "mega": {"enabled": true, "name": "メガリザードンX", "ability": "かたいツメ", "base_stats": {"H": 78, "A": 130, "B": 111, "C": 130, "D": 85, "S": 100}}},
+    "ミミロップ": {"base_stats": {"H": 65, "A": 76, "B": 84, "C": 54, "D": 96, "S": 105}, "ability": "メロメロボディ", "mega": {"enabled": true, "name": "メガミミロップ", "ability": "きもったま", "base_stats": {"H": 65, "A": 136, "B": 94, "C": 54, "D": 96, "S": 135}}},
+    "ルカリオ": {"base_stats": {"H": 70, "A": 110, "B": 70, "C": 115, "D": 70, "S": 90}, "ability": "ふくつのこころ", "mega": {"enabled": true, "name": "メガルカリオ", "ability": "てきおうりょく", "base_stats": {"H": 70, "A": 145, "B": 88, "C": 140, "D": 70, "S": 112}}},
+    "ギャラドス": {"base_stats": {"H": 95, "A": 125, "B": 79, "C": 60, "D": 100, "S": 81}, "ability": "いかく", "mega": {"enabled": true, "name": "メガギャラドス", "ability": "かたやぶり", "base_stats": {"H": 95, "A": 155, "B": 109, "C": 70, "D": 130, "S": 81}}}
+  }
+}

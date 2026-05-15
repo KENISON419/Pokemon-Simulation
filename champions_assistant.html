@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pokemon Champions Battle Assistant</title>
+  <style>
+    body{font-family:sans-serif;max-width:1200px;margin:0 auto;padding:16px;background:#f5f7fb}
+    .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:12px;box-shadow:0 1px 4px #0001}
+    .grid{display:grid;grid-template-columns:repeat(6,minmax(120px,1fr));gap:8px}
+    .grid3{display:grid;grid-template-columns:repeat(3,minmax(180px,1fr));gap:8px}
+    input,select,button,textarea{width:100%;padding:6px;margin:2px 0}
+    table{width:100%;border-collapse:collapse} td,th{border:1px solid #ddd;padding:6px}
+    .row{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+  </style>
+</head><body>
+<h1>Pokemon Champions 対戦支援</h1>
+<div class="card"><button id="loadData">使用率データ読み込み</button><div id="status"></div></div>
+<div class="card"><h3>自分の6匹登録</h3><div id="myParty"></div></div>
+<div class="card"><h3>相手の6匹登録(名前のみ)</h3><div id="oppParty"></div></div>
+<div class="card"><h3>自分の選出3匹</h3><div class="grid3" id="selected3"></div></div>
+<div class="card"><h3>ターン記録</h3><div class="row"><div id="turnForm"></div><div><h4>AI推奨手</h4><div id="ai"></div></div></div><button id="addTurn">ターンを保存</button></div>
+<div class="card"><h3>対戦ログ</h3><pre id="log" style="white-space:pre-wrap"></pre></div>
+<div class="card"><button id="resetBattle">対戦終了: 自分パーティ以外リセット</button></div>
+<script>
+const state={myParty:[],oppParty:Array(6).fill(''),selected3:['','',''],turns:[],knowledge:{},usageByName:{},master:[],battleResults:JSON.parse(localStorage.getItem('battleResults')||'[]')};
+const S=id=>document.getElementById(id);
+function mkMy(i){return `<div class='card'><b>${i+1}</b><input placeholder='名前' id='my_name_${i}'/><input placeholder='努力値(例 20/0/20/0/0/26 合計66)' id='my_ev_${i}'/><input placeholder='持ち物' id='my_item_${i}'/><input placeholder='性格' id='my_nature_${i}'/><input placeholder='技1' id='my_move1_${i}'/><input placeholder='技2' id='my_move2_${i}'/><input placeholder='技3' id='my_move3_${i}'/><input placeholder='技4' id='my_move4_${i}'/></div>`}
+S('myParty').innerHTML=`<div class='grid'>${Array.from({length:6},(_,i)=>mkMy(i)).join('')}</div><button onclick='saveMy()'>自分パーティ保存</button>`;
+S('oppParty').innerHTML=`<div class='grid'>${Array.from({length:6},(_,i)=>`<input id='opp_${i}' placeholder='相手${i+1} 名前'/>`).join('')}</div><button onclick='saveOpp()'>相手パーティ保存</button>`;
+S('selected3').innerHTML=Array.from({length:3},(_,i)=>`<select id='sel_${i}'></select>`).join('')+`<button onclick='saveSel()'>選出保存</button>`;
+S('turnForm').innerHTML=`<input id='myActive' placeholder='自分の場のポケモン'><input id='myHP' placeholder='自分HP%'><input id='myStatus' placeholder='自分状態異常'>
+<input id='oppActive' placeholder='相手の場のポケモン'><input id='oppHP' placeholder='相手HP%'><input id='oppStatus' placeholder='相手状態異常'>
+<input id='oppMove' placeholder='相手が使った技'><input id='oppItem' placeholder='判明した相手持ち物'>
+<input id='field' placeholder='場状態(天候/フィールド等)'><input id='megaMy' placeholder='自分メガシンカ yes/no'><input id='megaOpp' placeholder='相手メガシンカ yes/no'><input id='faint' placeholder='ひんし情報'>`;
+function saveMy(){state.myParty=Array.from({length:6},(_,i)=>({name:S(`my_name_${i}`).value.trim(),ev:S(`my_ev_${i}`).value.trim(),item:S(`my_item_${i}`).value.trim(),nature:S(`my_nature_${i}`).value.trim(),moves:[1,2,3,4].map(n=>S(`my_move${n}_${i}`).value.trim())}));refreshSel();}
+function refreshSel(){for(let i=0;i<3;i++){S(`sel_${i}`).innerHTML='<option value="">-</option>'+state.myParty.map(p=>`<option>${p.name||''}</option>`).join('');}}
+function saveOpp(){state.oppParty=Array.from({length:6},(_,i)=>S(`opp_${i}`).value.trim());}
+function saveSel(){state.selected3=Array.from({length:3},(_,i)=>S(`sel_${i}`).value);suggest();}
+function battleScore(action){let s=0;const opp=state.knowledge.oppActive||'';const usage=state.usageByName[opp];if(usage){const topMoves=(usage.sections?.['技']?.moves||[]).slice(0,4).map(m=>m.name);if(action.type==='move'&&topMoves.includes(action.name))s+=15;if(action.type==='switch')s+=5;}
+const hist=state.battleResults.slice(-30);const key=(state.knowledge.myActive||'')+'::'+action.label;const wins=hist.filter(r=>r.actionKey===key&&r.win).length;const total=hist.filter(r=>r.actionKey===key).length;if(total>0)s+=Math.round(100*wins/total);
+if(action.mega)s+=8; if(state.knowledge.fainted?.includes(action.switchTo)) s-=999; return s;}
+function suggest(){const me=state.myParty.find(p=>p.name===S('myActive').value.trim())||{};const actions=[];(me.moves||[]).filter(Boolean).forEach(m=>actions.push({label:`技:${m}`,type:'move',name:m,mega:false}),(me.item||'').includes('メガストーン')&&actions.push({label:`メガ+技:${m}`,type:'move',name:m,mega:true}));state.selected3.filter(n=>n&&n!==me.name).forEach(n=>actions.push({label:`交代:${n}`,type:'switch',switchTo:n}));actions.forEach(a=>a.score=battleScore(a));actions.sort((a,b)=>b.score-a.score);S('ai').innerHTML=actions.slice(0,5).map(a=>`${a.label} (評価:${a.score})`).join('<br>');}
+S('addTurn').onclick=()=>{const t={turn:state.turns.length+1,myActive:S('myActive').value,myHP:S('myHP').value,myStatus:S('myStatus').value,oppActive:S('oppActive').value,oppHP:S('oppHP').value,oppStatus:S('oppStatus').value,oppMove:S('oppMove').value,oppItem:S('oppItem').value,field:S('field').value,megaMy:S('megaMy').value,megaOpp:S('megaOpp').value,faint:S('faint').value,time:new Date().toISOString()};state.knowledge={...state.knowledge,...t};state.turns.push({...state.knowledge});suggest();S('log').textContent=JSON.stringify(state.turns,null,2);};
+S('resetBattle').onclick=()=>{state.oppParty=Array(6).fill('');state.selected3=['','',''];state.turns=[];state.knowledge={};S('log').textContent='';S('ai').textContent='';for(let i=0;i<6;i++)S(`opp_${i}`).value='';for(let i=0;i<3;i++)S(`sel_${i}`).value='';};
+S('loadData').onclick=async()=>{try{S('status').textContent='読み込み中...';const [m,s]=await Promise.all([fetch('pokemon_usage_json/pokemon_master.json').then(r=>r.json()),fetch('pokemon_usage_json/summary.json').then(r=>r.json())]);state.master=m.pokemons;for(const r of s.results){if(!r.path) continue;const path=r.path.replaceAll('\\','/');try{const d=await fetch(path).then(x=>x.json());state.usageByName[d.display_name]=d;}catch{}}
+S('status').textContent=`読込完了: ${Object.keys(state.usageByName).length}匹`; }catch(e){S('status').textContent='読み込み失敗(ローカルサーバーで開いてください)';}};
+</script></body></html>
