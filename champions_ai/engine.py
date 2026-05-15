@@ -22,6 +22,8 @@ class PokemonState:
     mega_used: bool = False
     evs: Dict[str, int] = field(default_factory=lambda: {"H":0,"A":0,"B":0,"C":0,"D":0,"S":0})
     nature: str = ""
+    ability: str = ""
+    form: str = ""
 
 
 @dataclass
@@ -69,6 +71,15 @@ class OpponentSetPrediction:
     top_nature: str
     top_spread: str
 
+
+MEGA_FORM_DB = {
+    "リザードン": {"form": "メガリザードンX", "ability": "かたいツメ", "atk_bias": 1.25, "spa_bias": 0.95},
+    "リザードンY": {"form": "メガリザードンY", "ability": "ひでり", "atk_bias": 0.9, "spa_bias": 1.3},
+    "ガブリアス": {"form": "メガガブリアス", "ability": "すなのちから", "atk_bias": 1.2, "spa_bias": 1.0},
+    "ミミロップ": {"form": "メガミミロップ", "ability": "きもったま", "atk_bias": 1.2, "spa_bias": 1.0},
+    "ルカリオ": {"form": "メガルカリオ", "ability": "てきおうりょく", "atk_bias": 1.22, "spa_bias": 1.22},
+    "ギャラドス": {"form": "メガギャラドス", "ability": "かたやぶり", "atk_bias": 1.2, "spa_bias": 0.9},
+}
 
 class MinimaxCache:
     def __init__(self, max_size: int = 12000):
@@ -295,8 +306,10 @@ class ChampionsAI:
             nxt.opp_active = opp_action.name
             opp = self._find(nxt.opp_party, nxt.opp_active)
 
-        my_dmg = self._expected_damage(nxt.my_active, nxt.opp_active, my_action)
-        opp_dmg = self._expected_damage(nxt.opp_active, nxt.my_active, opp_action)
+        if my_action.mega and me:
+            self._apply_mega_form(me)
+        my_dmg = self._expected_damage(nxt.my_active, nxt.opp_active, my_action, me)
+        opp_dmg = self._expected_damage(nxt.opp_active, nxt.my_active, opp_action, opp)
         first_my = self._acts_first(my_action, opp_action, nxt.turn)
         if first_my:
             opp.hp = max(0.0, opp.hp - my_dmg)
@@ -310,8 +323,6 @@ class ChampionsAI:
             else:
                 opp.hp = max(0.0, opp.hp - my_dmg)
                 if opp.hp <= 0: opp.fainted = True
-        if my_action.mega:
-            me.mega_used = True
         nxt.turn += 1
         return nxt
 
@@ -355,7 +366,29 @@ class ChampionsAI:
         usage = self.usage_by_name.get(name, {})
         return [m.get("name") for m in usage.get("sections", {}).get("技", {}).get("moves", [])[:k] if m.get("name")]
 
-    def _expected_damage(self, atk_name: str, def_name: str, action: Action) -> float:
+
+    def _apply_mega_form(self, mon: PokemonState) -> None:
+        if mon.mega_used:
+            return
+        base = mon.name.replace(":永遠", "")
+        cfg = MEGA_FORM_DB.get(base)
+        if not cfg:
+            mon.mega_used = True
+            return
+        mon.form = cfg.get("form", mon.name)
+        mon.ability = cfg.get("ability", mon.ability)
+        mon.mega_used = True
+
+    def _mega_damage_bias(self, mon: PokemonState, move_name: str) -> float:
+        base = mon.name.replace(":永遠", "")
+        cfg = MEGA_FORM_DB.get(base)
+        if not cfg:
+            return 1.0
+        # rough physical/special split by move naming heuristics in JP dataset
+        special_hint = any(k in move_name for k in ["ビーム", "ほうしゃ", "ボルト", "サイコ", "シャドー", "りゅうせい"])
+        return cfg.get("spa_bias", 1.0) if special_hint else cfg.get("atk_bias", 1.0)
+
+    def _expected_damage(self, atk_name: str, def_name: str, action: Action, attacker: Optional[PokemonState]=None) -> float:
         if action.kind == "switch":
             return 0.0
         usage = self.usage_by_name.get(atk_name, {})
@@ -363,8 +396,8 @@ class ChampionsAI:
         p = self._pokechamp_move_prior(atk_name)
         blended = 0.55 * u.get(action.name, 8.0) + 0.45 * p.get(action.name, 8.0)
         dmg = 14.0 + 0.65 * blended
-        if action.mega:
-            dmg *= 1.20
+        if attacker is not None:
+            dmg *= self._mega_damage_bias(attacker, action.name)
         return max(4.0, min(95.0, dmg))
 
     def _action_posterior_bonus(self, st: BattleState, a: Action) -> float:
