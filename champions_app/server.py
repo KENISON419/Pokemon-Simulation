@@ -164,9 +164,10 @@ class Handler(SimpleHTTPRequestHandler):
             st = to_state(data); err = _validate_state(st)
             if err: return self._json(400, {"error": err})
             out = AI.suggest(st, top_k=int(data.get("top_k", 5)))
+            opp_set = AI.predict_opponent_set(st.opp_active) if st.opp_active else None
             sid = data.get("session_id", "adhoc")
-            log_event(sid, "suggest", st.turn, {"my_active": st.my_active, "opp_active": st.opp_active, "top": [x[0].__dict__ for x in out[:3]]})
-            return self._json(200, {"suggestions": [{"action": a.__dict__, "score": s, "why": w} for a, s, w in out]})
+            log_event(sid, "suggest", st.turn, {"my_active": st.my_active, "opp_active": st.opp_active, "top": [x[0].__dict__ for x in out[:3]], "opp_set": opp_set.__dict__ if opp_set else {}})
+            return self._json(200, {"suggestions": [{"action": a.__dict__, "score": s, "why": w} for a, s, w in out], "opponent_prediction": opp_set.__dict__ if opp_set else {}})
 
         if p == "/api/save_turn":
             sid = data.get("session_id", "")

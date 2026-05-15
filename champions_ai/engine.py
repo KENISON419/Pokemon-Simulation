@@ -60,6 +60,15 @@ class InferredSet:
     abilities: Dict[str, float]
     spreads: Dict[str, float]
 
+@dataclass
+class OpponentSetPrediction:
+    name: str
+    top_moves: List[str]
+    top_item: str
+    top_ability: str
+    top_nature: str
+    top_spread: str
+
 
 class MinimaxCache:
     def __init__(self, max_size: int = 12000):
@@ -201,6 +210,26 @@ class ChampionsAI:
                 return a
         return dist[-1][0] if dist else Action("move","わるあがき",False)
 
+
+
+    def predict_opponent_set(self, mon_name: str) -> OpponentSetPrediction:
+        use = self._usage_profile(mon_name)
+        u = self.usage_by_name.get(mon_name, {})
+        sec = u.get("sections", {})
+        natures = [m.get("name") for m in sec.get("能力補正", {}).get("natures", []) if m.get("name")]
+        def top_key(d: Dict[str, float]) -> str:
+            if not d:
+                return ""
+            return sorted(d.items(), key=lambda x: x[1], reverse=True)[0][0]
+        top_moves = [k for k,_ in sorted(use.moves.items(), key=lambda x:x[1], reverse=True)[:4]]
+        return OpponentSetPrediction(
+            name=mon_name,
+            top_moves=top_moves,
+            top_item=top_key(use.items),
+            top_ability=top_key(use.abilities),
+            top_nature=natures[0] if natures else "",
+            top_spread=top_key(use.spreads),
+        )
 
     def _usage_profile(self, mon_name: str) -> InferredSet:
         usage = self.usage_by_name.get(mon_name, {})
