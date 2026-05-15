@@ -19,6 +19,7 @@ DB_PATH = DATA / "battles.db"
 DATA.mkdir(exist_ok=True)
 SESSIONS: Dict[str, Dict[str, Any]] = {}
 AI = ChampionsAI(ROOT)
+BATORECO_REF = json.loads((ROOT / "champions_app" / "data" / "batoreco_reference.json").read_text(encoding="utf-8"))
 
 
 def build_name_key_map():
@@ -147,6 +148,11 @@ class Handler(SimpleHTTPRequestHandler):
             qs = parse_qs(urlparse(self.path).query)
             name = qs.get("name", [""])[0]
             return self._json(200, usage_options_for(name))
+        if p.startswith("/api/pokemon_profile"):
+            qs = parse_qs(urlparse(self.path).query)
+            name = qs.get("name", [""])[0]
+            prof = BATORECO_REF.get("pokemon", {}).get(name, {})
+            return self._json(200, prof)
         if p == "/api/history":
             con = sqlite3.connect(DB_PATH)
             rows = con.execute("SELECT session_id,event_type,turn,payload,created_at FROM battle_events ORDER BY id DESC LIMIT 100").fetchall()
